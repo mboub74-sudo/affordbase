@@ -15,6 +15,22 @@ export const metadata={
 };
 export const viewport={width:'device-width',initialScale:1,themeColor:'#173f2b'};
 
+function SiteHeader(){
+ return <header className="site-header">
+  <Link className="brand" href="/">AffordBase<span>.</span></Link>
+  <nav className="main-nav" aria-label="Main navigation">
+   <Link href="/dashboard/">Dashboard</Link>
+   <Link href="/take-home-pay-calculator/">Salary</Link>
+   <Link href="/rent-affordability-calculator/">Rent</Link>
+   <Link href="/car-affordability-calculator/">Car</Link>
+   <Link href="/mortgage-affordability-calculator/">Home</Link>
+   <Link href="/compare-cities/">Cities</Link>
+   <Link href="/goal-planner/">Goals</Link>
+  </nav>
+  <Link className="header-cta" href="/dashboard/">Plan my budget</Link>
+ </header>
+}
+
 function SiteFooter(){
  return <footer className="site-footer">
   <div className="footer-grid">
@@ -29,5 +45,5 @@ function SiteFooter(){
 
 export default function Layout({children}){
  const schema={"@context":"https://schema.org","@graph":[{"@type":"WebSite","name":"AffordBase","url":SITE_URL,"description":"Affordability and financial planning calculators for the US and Canada."},{"@type":"Organization","name":"AffordBase","url":SITE_URL,"email":"affordbase@gmail.com"}]};
- return <html lang="en"><body>{children}<SiteFooter/><script type="application/ld+json" dangerouslySetInnerHTML={{__html:JSON.stringify(schema)}}/></body></html>
+ return <html lang="en"><body><SiteHeader/>{children}<SiteFooter/><script type="application/ld+json" dangerouslySetInnerHTML={{__html:JSON.stringify(schema)}}/></body></html>
 }
