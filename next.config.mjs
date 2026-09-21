@@ -10,7 +10,7 @@ const cityRedirects=[
  ['salary-needed-to-live-in-vancouver','vancouver'],
  ['salary-needed-to-live-in-montreal','montreal'],
  ['salary-needed-to-live-in-calgary','calgary'],
- ['salary-needed-to-live-in-new-york','new-york-city'],
+ ['salary-needed-to-live-in-new-york','new-york'],
  ['salary-needed-to-live-in-miami','miami']
 ];
 
