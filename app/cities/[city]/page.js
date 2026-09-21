@@ -21,7 +21,7 @@ export function generateStaticParams(){return Object.keys(CITY_SLUGS).map(city=>
 
 export async function generateMetadata({params}){
  const {city}=await params,n=CITY_SLUGS[city];if(!n)return{};
- const title=`Salary Needed to Live in ${n} (2026) | AffordBase`;
+ const title=`Salary Needed to Live in ${n} (2026)`;
  const description=cityDescriptions[n];
  const url=`${SITE_URL}/cities/${city}/`;
  return {title,description,alternates:{canonical:`/cities/${city}/`},openGraph:{title,description,url,type:'website',siteName:'AffordBase'}};
