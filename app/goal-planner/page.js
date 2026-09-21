@@ -1,0 +1,3 @@
+import GoalPlanner from '../components/GoalPlanner';
+export const metadata={title:'Goal Planner — Savings, Home & Debt Timeline | AffordBase',description:'Build a monthly timeline for a home, emergency fund, debt payoff or custom savings goal with AffordBase.'};
+export default function Page(){return <><header><a className="brand" href="/">AffordBase<span>.</span></a><nav><a href="/dashboard/">Dashboard</a><a href="/compare-cities/">Compare Cities</a><a href="/my-plan/">My Plan</a><a href="/goal-planner/">Goal Planner</a></nav><a className="mini" href="/my-plan/">My Plan</a></header><main><GoalPlanner/></main></>}

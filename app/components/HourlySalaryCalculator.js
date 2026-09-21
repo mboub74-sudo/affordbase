@@ -1,0 +1,9 @@
+'use client';
+import {useMemo,useState} from 'react';
+
+const money=n=>new Intl.NumberFormat('en-US',{style:'currency',currency:'USD',maximumFractionDigits:2}).format(Number(n)||0);
+export default function HourlySalaryCalculator({initialHourly=30}){
+ const [hourly,setHourly]=useState(initialHourly),[hours,setHours]=useState(40),[weeks,setWeeks]=useState(52);
+ const r=useMemo(()=>{const h=Math.max(0,Number(hourly)||0),hpw=Math.min(168,Math.max(0,Number(hours)||0)),w=Math.min(53,Math.max(0,Number(weeks)||0));const annual=h*hpw*w;return {annual,monthly:annual/12,biweekly:annual/26,weekly:h*hpw,daily:h*(hpw/5),hoursYear:hpw*w}},[hourly,hours,weeks]);
+ return <div className="hourlyTool"><div className="fields"><label>Hourly wage</label><div className="input"><span>$</span><input aria-label="Hourly wage" type="number" min="0" step="0.25" value={hourly} onChange={e=>setHourly(e.target.value)}/></div><label>Hours per week</label><input aria-label="Hours per week" type="number" min="0" max="168" step="1" value={hours} onChange={e=>setHours(e.target.value)}/><label>Weeks worked per year</label><input aria-label="Weeks worked per year" type="number" min="0" max="53" step="1" value={weeks} onChange={e=>setWeeks(e.target.value)}/><small>Gross-pay conversion before taxes and deductions. Overtime, bonuses and unpaid time off are not included unless reflected in your inputs.</small></div><div className="answer" aria-live="polite"><span>Estimated annual gross pay</span><strong>{money(r.annual)}</strong><div className="payBreakdown"><p><span>Monthly</span><b>{money(r.monthly)}</b></p><p><span>Biweekly</span><b>{money(r.biweekly)}</b></p><p><span>Weekly</span><b>{money(r.weekly)}</b></p><p><span>Workday*</span><b>{money(r.daily)}</b></p></div><small>*Workday assumes the entered weekly hours are spread across five days.</small></div></div>
+}

@@ -1,0 +1,1 @@
+export default function NotFound(){return <main className="notfound"><a className="brand" href="/">AffordBase<span>.</span></a><h1>Page not found.</h1><p>The page may have moved, but your planning tools are still here.</p><div><a className="cta" href="/dashboard/">Open Dashboard</a> <a className="secondarycta" href="/">Back home</a></div></main>}

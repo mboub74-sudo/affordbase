@@ -1,0 +1,11 @@
+'use client';
+import {useMemo,useState} from 'react';
+const money=n=>new Intl.NumberFormat('en-US',{style:'currency',currency:'USD',maximumFractionDigits:0}).format(Number.isFinite(n)?n:0);
+export default function Rent60kCalculator(){
+ const [ratio,setRatio]=useState(30); const [debt,setDebt]=useState(300); const [living,setLiving]=useState(1400); const [savings,setSavings]=useState(500);
+ const annual=60000, monthlyGross=annual/12;
+ const r=useMemo(()=>{const grossRent=monthlyGross*(ratio/100); const monthlyCommitted=debt+living+savings; return {grossRent,monthlyGross,monthlyCommitted};},[ratio,debt,living,savings]);
+ return <section className="calcWrap"><div className="calcHead"><div><span className="eyebrow">$60K RENT SCENARIO</span><h2>Adjust the $60,000 salary example</h2><p>Compare a gross-income rent target with the other monthly costs you expect to carry.</p></div></div>
+ <div className="calcGrid"><div className="calcInputs"><label>Annual gross salary<input value="$60,000" disabled/></label><label>Target rent-to-gross-income ratio <b>{ratio}%</b><input type="range" min="20" max="40" step="1" value={ratio} onChange={e=>setRatio(+e.target.value)}/></label><label>Monthly debt payments<input type="number" min="0" step="50" value={debt} onChange={e=>setDebt(Math.max(0,+e.target.value||0))}/></label><label>Essential living costs / month<input type="number" min="0" step="50" value={living} onChange={e=>setLiving(Math.max(0,+e.target.value||0))}/></label><label>Savings target / month<input type="number" min="0" step="50" value={savings} onChange={e=>setSavings(Math.max(0,+e.target.value||0))}/></label></div>
+ <div className="calcResults" aria-live="polite"><div className="resultHero"><span>Rent at {ratio}% of gross income</span><strong>{money(r.grossRent)}<small>/mo</small></strong></div><div className="resultRows"><div><span>Gross income / month</span><b>{money(r.monthlyGross)}</b></div><div><span>Debt + living + savings</span><b>{money(r.monthlyCommitted)}</b></div><div><span>Gross income left after target rent*</span><b>{money(r.monthlyGross-r.grossRent-r.monthlyCommitted)}</b></div></div><p className="calcNote">*This last line uses gross income and is not take-home cash. Taxes and payroll deductions still need to be removed. Use the Take-Home Pay Calculator for a location-specific budget.</p></div></div></section>;
+}

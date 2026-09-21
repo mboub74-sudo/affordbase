@@ -1,0 +1,11 @@
+'use client';
+import {useMemo,useState} from 'react';
+import {CITY_DATA,cityMonthlyCost} from '../cityData';
+import {canadaTax,usaTax} from '../tax';
+export default function SalaryNeeded({cityName}){
+ const c=CITY_DATA[cityName]; const [household,setHousehold]=useState('single'); const [rent,setRent]=useState(c.rent); const [savings,setSavings]=useState(10);
+ const mult=household==='couple'?1.45:household==='family'?1.85:1;
+ const result=useMemo(()=>{const nonRent=(cityMonthlyCost(c)-c.rent)*mult; const monthlyNeed=(+rent||0)+nonRent; let lo=0,hi=500000; for(let i=0;i<45;i++){const mid=(lo+hi)/2; const t=c.country==='CA'?canadaTax(mid,c.region):usaTax(mid,c.region,'single'); const spendable=t.net/12*(1-savings/100); if(spendable>=monthlyNeed)hi=mid; else lo=mid;} const tax=c.country==='CA'?canadaTax(hi,c.region):usaTax(hi,c.region,'single'); return {gross:hi,net:tax.net,monthlyNeed,nonRent,left:tax.net/12-monthlyNeed};},[c,rent,savings,mult]);
+ const money=n=>new Intl.NumberFormat('en-US',{style:'currency',currency:c.currency,maximumFractionDigits:0}).format(n);
+ return <div className="toolbox"><div className="fields"><label>Household</label><select value={household} onChange={e=>setHousehold(e.target.value)}><option value="single">Single adult</option><option value="couple">Couple</option><option value="family">Family household</option></select><label>Monthly rent</label><input type="number" value={rent} onChange={e=>setRent(e.target.value)}/><label>Savings target</label><select value={savings} onChange={e=>setSavings(+e.target.value)}><option value="0">0%</option><option value="10">10%</option><option value="15">15%</option><option value="20">20%</option></select><small>Planning model. Household non-rent costs scale by household type.</small></div><div className="answer"><span>Estimated gross salary needed</span><strong>{money(result.gross)}<small>/yr</small></strong><div className="answergrid"><p><b>{money(result.net/12)}</b><small>Estimated take-home / month</small></p><p><b>{money(result.monthlyNeed)}</b><small>Modeled monthly costs</small></p><p><b>{money(rent)}</b><small>Rent</small></p><p><b>{money(result.left)}</b><small>Before savings allocation</small></p></div></div></div>
+}

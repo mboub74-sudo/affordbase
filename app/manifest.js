@@ -1,0 +1,1 @@
+export default function manifest(){return {name:'AffordBase',short_name:'AffordBase',description:'Affordability and financial planning tools for the US and Canada.',start_url:'/',display:'standalone',background_color:'#f7f8f5',theme_color:'#173f2b'}}
