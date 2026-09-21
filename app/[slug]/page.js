@@ -6,7 +6,7 @@ import {pages,getPage} from '../data';
 import {SITE_URL} from '../site';
 
 export function generateStaticParams(){return pages.map(p=>({slug:p.slug}))}
-export async function generateMetadata({params}){const {slug}=await params,p=getPage(slug);if(!p)return{};const title=`${p.title} | AffordBase`,url=`${SITE_URL}/${p.slug}/`;return{title,description:p.description,alternates:{canonical:`/${p.slug}/`},openGraph:{title,description:p.description,url,type:'website',siteName:'AffordBase'}}}
+export async function generateMetadata({params}){const {slug}=await params,p=getPage(slug);if(!p)return{};const title=p.title,url=`${SITE_URL}/${p.slug}/`;return{title,description:p.description,alternates:{canonical:`/${p.slug}/`},openGraph:{title,description:p.description,url,type:'website',siteName:'AffordBase'}}}
 
 const crossLinks={
  rent:[['/take-home-pay-calculator/','Estimate Take-Home Pay'],['/salary-needed-calculator/','Salary Needed Calculator'],['/mortgage-affordability-calculator/','Mortgage Affordability'],['/dashboard/','Monthly Budget Dashboard']],
