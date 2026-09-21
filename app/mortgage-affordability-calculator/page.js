@@ -3,7 +3,7 @@ import {SITE_URL} from '../site';
 
 const slug='/mortgage-affordability-calculator/';
 const url=`${SITE_URL}${slug}`;
-const title='Mortgage Affordability Calculator: How Much Home Can I Afford? | AffordBase';
+const title='Mortgage Affordability Calculator: How Much Home Can I Afford?';
 const description='Estimate how much home you can afford from salary, down payment, debt, interest rate, property tax, insurance and HOA or condo fees.';
 
 export const metadata={
@@ -31,7 +31,7 @@ export default function Page(){
   <script type="application/ld+json" dangerouslySetInnerHTML={{__html:JSON.stringify(faqSchema)}}/>
   <header><a className="brand" href="/">AffordBase<span>.</span></a><nav><a href="/dashboard/">Dashboard</a><a href="/compare-cities/">Compare Cities</a><a href="/salary-needed-calculator/">Salary Needed</a><a href="/mortgage-affordability-calculator/">Home</a><a href="/down-payment-calculator/">Cash Needed</a></nav><a className="mini" href="/">Main tools</a></header>
   <main>
-   <section className="subhero"><div className="pill">AFFORDLY · HOME AFFORDABILITY</div><p className="breadcrumb"><a href="/">AffordBase</a> / Mortgage Affordability Calculator</p><h1>Mortgage Affordability <em>Calculator</em></h1><p>Estimate how much home you may be able to afford from income, down payment, debt, mortgage rate and the monthly costs of owning a home.</p></section>
+   <section className="subhero"><div className="pill">AFFORDBASE · HOME AFFORDABILITY</div><p className="breadcrumb"><a href="/">AffordBase</a> / Mortgage Affordability Calculator</p><h1>Mortgage Affordability <em>Calculator</em></h1><p>Estimate how much home you may be able to afford from income, down payment, debt, mortgage rate and the monthly costs of owning a home.</p></section>
    <div className="page-visual visual-home" role="img" aria-label="Modern family home for mortgage affordability planning"><span>See what home fits your income before you start shopping.</span></div>
    <section className="mortgageSeo"><h2>Quick answer</h2><p>Your affordable home price depends on more than salary. AffordBase first estimates your monthly take-home pay, then accounts for debt, property tax, insurance and HOA or condo fees. The calculator converts the remaining affordable mortgage payment into an estimated mortgage balance and adds your down payment.</p></section>
    <MortgageAffordability/>
