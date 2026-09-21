@@ -1,7 +1,7 @@
 import Salary80kCalculator from '../components/Salary80kCalculator';
 import {SITE_URL} from '../site';
 export const metadata={
- title:'$80K Salary After Tax: Monthly Take-Home Estimate | AffordBase',
+ title:'$80K Salary After Tax: Monthly Take-Home Estimate',
  description:'See estimated take-home pay on an $80,000 salary and compare how province or state changes your monthly net income and budget.',
  alternates:{canonical:'/80000-salary-after-tax/'},
  openGraph:{title:'$80K Salary After Tax: Monthly Take-Home Estimate | AffordBase',description:'Estimate annual and monthly take-home pay on an $80,000 salary in Canada or the United States.',url:`${SITE_URL}/80000-salary-after-tax/`}
