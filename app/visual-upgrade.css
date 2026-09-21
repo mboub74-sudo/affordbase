@@ -52,3 +52,16 @@ body{background:linear-gradient(180deg,#fbfcf9 0%,#f7f8f5 55%,#f5f8f6 100%)}
 .city-los-angeles{background-image:url('https://images.unsplash.com/photo-1534190760961-74e8c1c5c3da?auto=format&fit=crop&w=1500&q=78')}
 .city-chicago{background-image:url('https://images.unsplash.com/photo-1494522358652-f30e61a60313?auto=format&fit=crop&w=1500&q=78')}
 @media(max-width:700px){.city-visual{height:220px;margin:18px 18px 30px;border-radius:18px}.city-visual span{left:20px;bottom:20px;font-size:23px}}
+
+
+/* Global trust footer */
+.site-footer{margin-top:80px;background:#10251b;color:#dce9e1;padding:58px 24px 24px;border-top:1px solid #244435}
+.footer-grid{max-width:1160px;margin:auto;display:grid;grid-template-columns:1.6fr repeat(3,1fr);gap:42px}
+.site-footer .brand{display:inline-block;color:#fff;font-size:26px;margin-bottom:14px}.site-footer .brand span{color:#78c99a}
+.footer-brand p{max-width:360px;color:#b8c9bf;line-height:1.7;margin:0}
+.site-footer h2{font:700 15px/1.2 Arial,sans-serif;color:#fff;margin:5px 0 17px;text-transform:uppercase;letter-spacing:.08em}
+.site-footer a:not(.brand){display:block;color:#c9d8cf;text-decoration:none;margin:0 0 11px;font-size:14px;line-height:1.45}.site-footer a:hover{color:#fff;text-decoration:underline}
+.footer-bottom{max-width:1160px;margin:42px auto 0;padding-top:22px;border-top:1px solid #29483a;display:flex;justify-content:space-between;gap:20px;color:#91a79a;font-size:12px;line-height:1.5}
+body>footer:not(.site-footer){display:none}
+@media(max-width:850px){.footer-grid{grid-template-columns:1fr 1fr}.footer-brand{grid-column:1/-1}.footer-bottom{flex-direction:column}}
+@media(max-width:520px){.site-footer{padding:44px 20px 22px}.footer-grid{grid-template-columns:1fr;gap:28px}.footer-brand{grid-column:auto}.footer-bottom{margin-top:32px}}
