@@ -3,7 +3,7 @@ import RentAffordabilityCalculator from '../components/RentAffordabilityCalculat
 import {SITE_URL} from '../site';
 
 export const metadata={
- title:'Rent Affordability Calculator: How Much Rent Can I Afford? | AffordBase',
+ title:'Rent Affordability Calculator: How Much Rent Can I Afford?',
  description:'Estimate affordable monthly rent from take-home pay, debt, living costs and savings goals. Compare a 30% reference with your real monthly cash flow.',
  alternates:{canonical:'/rent-affordability-calculator/'},
  openGraph:{title:'Rent Affordability Calculator: How Much Rent Can I Afford?',description:'Estimate a rent target using take-home pay, debt, living costs and savings goals.',url:`${SITE_URL}/rent-affordability-calculator/`,type:'website'}
