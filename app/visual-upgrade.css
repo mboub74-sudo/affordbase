@@ -65,3 +65,11 @@ body{background:linear-gradient(180deg,#fbfcf9 0%,#f7f8f5 55%,#f5f8f6 100%)}
 body>footer:not(.site-footer){display:none}
 @media(max-width:850px){.footer-grid{grid-template-columns:1fr 1fr}.footer-brand{grid-column:1/-1}.footer-bottom{flex-direction:column}}
 @media(max-width:520px){.site-footer{padding:44px 20px 22px}.footer-grid{grid-template-columns:1fr;gap:28px}.footer-brand{grid-column:auto}.footer-bottom{margin-top:32px}}
+
+
+/* Global AffordBase navigation */
+.site-header{height:74px;padding:0 max(22px,5vw);display:flex;align-items:center;gap:30px;border-bottom:1px solid #dde7df;background:rgba(255,255,255,.96);backdrop-filter:blur(12px);position:sticky;top:0;z-index:100}
+.site-header .brand{flex:0 0 auto}.main-nav{display:flex;align-items:center;justify-content:center;gap:22px;flex:1}.main-nav a{color:#45584d;text-decoration:none;font-size:13px;font-weight:650;white-space:nowrap}.main-nav a:hover{color:#17643e}.header-cta{flex:0 0 auto;background:#173f2b;color:#fff;text-decoration:none;padding:11px 16px;border-radius:10px;font-size:13px;font-weight:800;box-shadow:0 8px 20px #173f2b1c}.header-cta:hover{background:#20563a}
+body>.site-header~header,body>.site-header~main+footer:not(.site-footer){display:none}
+@media(max-width:980px){.main-nav{gap:14px}.main-nav a:nth-last-child(-n+2){display:none}}
+@media(max-width:760px){.site-header{height:66px;padding:0 18px}.main-nav{display:none}.header-cta{margin-left:auto;padding:10px 13px}}
