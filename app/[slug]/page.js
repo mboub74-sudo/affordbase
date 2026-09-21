@@ -18,6 +18,18 @@ const crossLinks={
  city:[['/compare-cities/','Compare Cities'],['/take-home-pay-calculator/','Take-Home Pay Calculator'],['/rent-affordability-calculator/','Rent Affordability'],['/salary-needed-calculator/','Salary Needed Calculator']]
 };
 
+function relatedPages(p){
+ const s=p.slug;
+ let test;
+ if(/^\d+-an-hour-is-how-much-a-year$/.test(s)) test=x=>/^\d+-an-hour-is-how-much-a-year$/.test(x.slug)||x.slug==='hourly-to-salary-calculator';
+ else if(/^salary-needed-for-\d+-rent$/.test(s)) test=x=>/^salary-needed-for-\d+-rent$/.test(x.slug)||x.slug==='income-needed-for-rent';
+ else if(/^\d+-salary-after-tax$/.test(s)) test=x=>/^\d+-salary-after-tax$/.test(x.slug)||x.slug==='take-home-pay-calculator';
+ else if(/^house-affordability-\d+-salary$/.test(s)||s==='house-affordability-by-salary') test=x=>/^house-affordability-\d+-salary$/.test(x.slug)||x.slug==='house-affordability-by-salary'||x.slug==='mortgage-affordability-calculator';
+ else if(/^income-needed-for-\d+k-mortgage$/.test(s)) test=x=>/^income-needed-for-\d+k-mortgage$/.test(x.slug)||x.slug==='mortgage-affordability-calculator';
+ else test=x=>x.type===p.type;
+ return pages.filter(x=>x.slug!==p.slug&&test(x)).slice(0,6);
+}
+
 function intentContent(p){
  const s=p.slug;
  if(s==='3x-rent-calculator')return {heading:'Understanding the 3x rent guideline',body:'The 3x rent guideline compares monthly gross income with monthly rent. For example, $2,000 rent corresponds to $6,000 in gross monthly income, or $72,000 per year. A landlord may use different qualification rules, so treat this as a reference rather than an approval standard.',faqs:[['Is 3x rent based on gross or take-home income?','The common guideline uses gross income before taxes. Your personal budget should also consider take-home pay, debt, utilities, transportation and savings.'],['What if I do not earn three times the rent?','Qualification policies vary. A lower rent, additional documented income, a roommate or other options may change the situation depending on the landlord and local rules.']]};
@@ -47,5 +59,5 @@ export default async function Page({params}){
  const region=slug.includes('ontario')?'ON':slug.includes('quebec')?'QC':slug.includes('california')?'CA':slug.includes('texas')?'TX':undefined;const country=slug.includes('california')||slug.includes('texas')?'US':'CA';const url=`${SITE_URL}/${p.slug}/`;const intent=intentContent(p);
  const schema={"@context":"https://schema.org","@graph":[{"@type":"WebApplication",name:p.title,url,description:p.description,applicationCategory:"FinanceApplication",operatingSystem:"Web",offers:{"@type":"Offer",price:"0",priceCurrency:country==='US'?'USD':'CAD'}},{"@type":"BreadcrumbList",itemListElement:[{"@type":"ListItem",position:1,name:"AffordBase",item:SITE_URL},{"@type":"ListItem",position:2,name:p.title,item:url}]},{"@type":"FAQPage",mainEntity:intent.faqs.map(([q,a])=>({"@type":"Question",name:q,acceptedAnswer:{"@type":"Answer",text:a}}))}]};
  const links=crossLinks[p.type]||crossLinks[type]||[];
- return <main className="landing"><script type="application/ld+json" dangerouslySetInnerHTML={{__html:JSON.stringify(schema)}}/><div className="crumb"><Link href="/">Home</Link> / {p.title}</div><section className="pagehero"><div className="eyebrow">FREE AFFORDABILITY TOOL</div><h1>{p.h1}</h1><p>{p.description} Change the numbers below to see the estimate instantly.</p></section>{p.type==='tax'?<TaxCalculator initialCountry={country} initialRegion={region}/>:<Calculator type={type}/>}<section className="content"><h2>{intent.heading}</h2><p>{intent.body}</p><h2>Frequently asked questions</h2>{intent.faqs.map(([q,a])=><div className="faqItem" key={q}><h3>{q}</h3><p>{a}</p></div>)}<h2>Continue your affordability plan</h2><div className="linkgrid">{links.map(([href,label])=><Link key={href} href={href}>{label} →</Link>)}</div><h2>Explore related calculators</h2><div className="linkgrid">{pages.filter(x=>x.type===p.type&&x.slug!==p.slug).slice(0,6).map(x=><Link key={x.slug} href={`/${x.slug}/`}>{x.title} →</Link>)}</div></section></main>;
+ return <main className="landing"><script type="application/ld+json" dangerouslySetInnerHTML={{__html:JSON.stringify(schema)}}/><div className="crumb"><Link href="/">Home</Link> / {p.title}</div><section className="pagehero"><div className="eyebrow">FREE AFFORDABILITY TOOL</div><h1>{p.h1}</h1><p>{p.description} Change the numbers below to see the estimate instantly.</p></section>{p.type==='tax'?<TaxCalculator initialCountry={country} initialRegion={region}/>:<Calculator type={type}/>}<section className="content"><h2>{intent.heading}</h2><p>{intent.body}</p><h2>Frequently asked questions</h2>{intent.faqs.map(([q,a])=><div className="faqItem" key={q}><h3>{q}</h3><p>{a}</p></div>)}<h2>Continue your affordability plan</h2><div className="linkgrid">{links.map(([href,label])=><Link key={href} href={href}>{label} →</Link>)}</div><h2>Explore related calculators</h2><div className="linkgrid">{relatedPages(p).map(x=><Link key={x.slug} href={`/${x.slug}/`}>{x.title} →</Link>)}</div></section></main>;
 }
