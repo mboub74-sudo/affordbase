@@ -27,3 +27,13 @@ body{background:linear-gradient(180deg,#fbfcf9 0%,#f7f8f5 55%,#f5f8f6 100%)}
 .dashgrid{border-top:5px solid #73bf92}.dashresults{background:linear-gradient(145deg,#edf7f0,#edf5ff)}
 .metricgrid>*:nth-child(1){background:#f1f8ff}.metricgrid>*:nth-child(2){background:#fff7e8}.metricgrid>*:nth-child(3){background:#f1faf3}.metricgrid>*:nth-child(4){background:#fff2ed}
 @media(max-width:700px){.subhero{padding-top:45px}}
+
+/* Contextual imagery for SEO calculator pages */
+.page-visual{max-width:1160px;height:300px;margin:24px auto 38px;border-radius:24px;background-size:cover;background-position:center;position:relative;overflow:hidden;box-shadow:0 18px 45px #14231c18}
+.page-visual:after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(10,32,22,.62),rgba(10,32,22,.08))}
+.page-visual span{position:absolute;z-index:1;left:28px;bottom:26px;max-width:480px;color:#fff;font:700 28px Georgia,serif;text-shadow:0 2px 12px #0005}
+.visual-rent{background-image:url('https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1400&q=78')}
+.visual-home{background-image:url('https://images.unsplash.com/photo-1564013799919-ab600027ffc6?auto=format&fit=crop&w=1400&q=78')}
+.visual-car{background-image:url('https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1400&q=78')}
+.visual-salary{background-image:url('https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?auto=format&fit=crop&w=1400&q=78')}
+@media(max-width:700px){.page-visual{height:210px;margin:18px 18px 30px;border-radius:18px}.page-visual span{left:20px;right:20px;bottom:20px;font-size:22px}}
