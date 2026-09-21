@@ -1,4 +1,5 @@
 import './globals.css';
+import './visual-upgrade.css';
 import {SITE_URL} from './site';
 
 export const metadata={
