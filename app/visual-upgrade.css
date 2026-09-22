@@ -148,3 +148,23 @@ body>.site-header~header,body>.site-header~main+footer:not(.site-footer){display
 .compare-city-photo.city-chicago{background-image:url('https://images.unsplash.com/photo-1494522358652-f30e61a60313?auto=format&fit=crop&w=1000&q=80')}
 .compareprogrid .bestcard .cityhero{background:linear-gradient(135deg,#17643e,#245f48)!important;color:#fff}
 .compareprogrid .bestcard .cityhero span,.compareprogrid .bestcard .cityhero strong,.compareprogrid .bestcard .cityhero small{color:#fff!important}
+
+
+/* Premium lifestyle homepage */
+.home-hero{max-width:1320px;min-height:600px;margin:0 auto 24px;padding:56px 64px 30px;border-radius:0 0 34px 34px;position:relative;overflow:hidden;background:linear-gradient(90deg,rgba(247,252,255,.97) 0%,rgba(247,252,255,.88) 39%,rgba(247,252,255,.16) 70%),url('https://images.unsplash.com/photo-1517090504586-fde19ea6066f?auto=format&fit=crop&w=1800&q=85') center/cover no-repeat;box-shadow:0 24px 65px rgba(16,37,27,.12)}
+.home-hero:after{content:"";position:absolute;inset:auto 0 0;height:170px;background:linear-gradient(0deg,rgba(10,32,23,.32),transparent);pointer-events:none}
+.home-hero-copy{position:relative;z-index:2;max-width:720px}
+.home-hero-copy h1{font:700 clamp(48px,5.5vw,78px)/.98 Georgia,serif;color:#10251b;margin:18px 0}
+.home-hero-copy h1 em{color:#187bda;font-style:normal}
+.home-hero-copy p{font-size:19px;line-height:1.55;max-width:650px;color:#344d42}
+.hero-mini-grid{position:relative;z-index:3;display:grid;grid-template-columns:repeat(3,1fr);gap:14px;max-width:980px;margin-top:28px}
+.hero-mini{display:grid;grid-template-columns:58px 1fr 38px;align-items:center;gap:12px;padding:16px;background:rgba(255,255,255,.94);border:1px solid rgba(255,255,255,.9);border-radius:17px;text-decoration:none;color:#10251b;box-shadow:0 12px 30px rgba(16,37,27,.12);backdrop-filter:blur(10px)}
+.hero-mini i{width:52px;height:52px;display:grid;place-items:center;border-radius:14px;font-style:normal;font-size:27px}.salary-mini i{background:#e5f8ec}.rent-mini i{background:#e7f1ff}.home-mini i{background:#f1e8ff}
+.hero-mini b,.hero-mini span{display:block}.hero-mini b{font-size:15px}.hero-mini span{font-size:12px;color:#63766d;margin-top:4px;line-height:1.35}.hero-mini strong{font-size:24px;color:#1976d2}
+.hero-city-search{position:relative;z-index:3;max-width:980px;margin-top:16px;padding:8px 9px 8px 20px;background:rgba(255,255,255,.96);border-radius:999px;display:flex;align-items:center;justify-content:space-between;gap:16px;box-shadow:0 12px 30px rgba(16,37,27,.13)}
+.hero-city-search span{color:#63766d}.hero-city-search a{background:#1677ed;color:#fff;padding:14px 30px;border-radius:999px;text-decoration:none;font-weight:800;white-space:nowrap}
+.hero-city-pills{position:relative;z-index:3;display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-top:13px;color:#fff}.hero-city-pills a{padding:7px 12px;border-radius:999px;background:rgba(255,255,255,.91);color:#173f2b;text-decoration:none;font-size:12px;font-weight:700}
+.home-trust{max-width:1320px;margin:18px auto 36px;display:grid;grid-template-columns:repeat(4,1fr);gap:1px;border:1px solid #dce9e2;border-radius:20px;overflow:hidden;background:#dce9e2;box-shadow:0 12px 34px rgba(16,37,27,.06)}.home-trust div{padding:20px 24px;background:#f8fbff}.home-trust b,.home-trust span{display:block}.home-trust span{font-size:13px;color:#718077;margin-top:4px}
+.home-popular{max-width:1320px}.popular-title{grid-column:1/-1;padding:2px 4px 8px}.popular-title span{font-size:12px;font-weight:900;letter-spacing:.12em;color:#4771a5}.popular-title h2{margin:5px 0 0;font-size:34px}
+@media(max-width:900px){.home-hero{padding:38px 24px 26px}.hero-mini-grid{grid-template-columns:1fr}.home-trust{grid-template-columns:1fr 1fr}.home-hero-copy h1{font-size:48px}}
+@media(max-width:600px){.home-hero{min-height:auto;border-radius:0 0 24px 24px}.home-hero-copy h1{font-size:39px}.home-hero-copy p{font-size:16px}.hero-city-search{border-radius:18px;align-items:stretch;flex-direction:column;padding:14px}.hero-city-search a{text-align:center}.home-trust{grid-template-columns:1fr}.hero-city-pills{color:#173f2b}}
