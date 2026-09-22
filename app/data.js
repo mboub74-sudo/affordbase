@@ -47,7 +47,7 @@ export const pages=[
 ['income-needed-for-400k-mortgage','Income Needed for a $400K Mortgage','Income Needed for a $400K Mortgage','mortgage','Explore the income that may support a $400,000 mortgage using estimated payments, debt and take-home pay for planning rather than lender qualification.'],
 ['income-needed-for-500k-mortgage','Income Needed for a $500K Mortgage','Income Needed for a $500K Mortgage','mortgage','Explore the income that may support a $500,000 mortgage by comparing estimated housing costs, debt and take-home pay. Actual lender qualification can differ.'],
 ['mortgage-affordability-calculator','Mortgage Affordability Calculator','Mortgage Affordability Calculator','mortgage','Estimate how much home you can afford from salary, down payment, debt, mortgage rate, property tax, insurance and HOA or condo fees.'],
-['down-payment-calculator','Down Payment Calculator','Down Payment Calculator','mortgage','Estimate a home down payment target and explore how purchase price and upfront cash affect your home-buying plan.']
+['down-payment-calculator','Down Payment Calculator','Down Payment Calculator','mortgage','Estimate a home down payment target and explore how purchase price and upfront cash affect your home-buying plan.'],
 
 // Batch 6 — hourly, tax, rent, car and home long-tail pages
 ['45-an-hour-is-how-much-a-year','$45 an Hour Is How Much a Year?','$45 an Hour Is How Much a Year?','salary','$45 an hour equals $93,600 per year at 40 hours a week for 52 weeks. Compare weekly, monthly and annual gross pay with adjustable hours.'],
