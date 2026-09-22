@@ -133,3 +133,18 @@ body>.site-header~header,body>.site-header~main+footer:not(.site-footer){display
 .comparedelta>div article:nth-child(3n+2){background:linear-gradient(135deg,#f1f6ff,#fff)}
 .comparedelta>div article:nth-child(3n){background:linear-gradient(135deg,#fff7e7,#fff)}
 @media(max-width:700px){.compare-city-photo{height:155px}.compare-city-photo span{font-size:23px}}
+
+
+/* Compare card image fallbacks + stronger best-card contrast */
+.compare-city-photo{background-color:#dce9e2}
+.compare-city-photo.city-ottawa{background-image:url('https://images.unsplash.com/photo-1594839392174-c87b6e5556a2?auto=format&fit=crop&w=1000&q=80')}
+.compare-city-photo.city-toronto{background-image:url('https://images.unsplash.com/photo-1517090504586-fde19ea6066f?auto=format&fit=crop&w=1000&q=80')}
+.compare-city-photo.city-vancouver{background-image:url('https://images.unsplash.com/photo-1559511260-66a654ae982a?auto=format&fit=crop&w=1000&q=80')}
+.compare-city-photo.city-montreal{background-image:url('https://images.unsplash.com/photo-1519178614-68673b201f36?auto=format&fit=crop&w=1000&q=80')}
+.compare-city-photo.city-calgary{background-image:url('https://images.unsplash.com/photo-1609825488888-3a766db05542?auto=format&fit=crop&w=1000&q=80')}
+.compare-city-photo.city-new-york{background-image:url('https://images.unsplash.com/photo-1522083165195-3424ed129620?auto=format&fit=crop&w=1000&q=80')}
+.compare-city-photo.city-miami{background-image:url('https://images.unsplash.com/photo-1506966953602-c20cc11f75e3?auto=format&fit=crop&w=1000&q=80')}
+.compare-city-photo.city-los-angeles{background-image:url('https://images.unsplash.com/photo-1534190760961-74e8c1c5c3da?auto=format&fit=crop&w=1000&q=80')}
+.compare-city-photo.city-chicago{background-image:url('https://images.unsplash.com/photo-1494522358652-f30e61a60313?auto=format&fit=crop&w=1000&q=80')}
+.compareprogrid .bestcard .cityhero{background:linear-gradient(135deg,#17643e,#245f48)!important;color:#fff}
+.compareprogrid .bestcard .cityhero span,.compareprogrid .bestcard .cityhero strong,.compareprogrid .bestcard .cityhero small{color:#fff!important}
