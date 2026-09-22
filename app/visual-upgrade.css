@@ -168,3 +168,34 @@ body>.site-header~header,body>.site-header~main+footer:not(.site-footer){display
 .home-popular{max-width:1320px}.popular-title{grid-column:1/-1;padding:2px 4px 8px}.popular-title span{font-size:12px;font-weight:900;letter-spacing:.12em;color:#4771a5}.popular-title h2{margin:5px 0 0;font-size:34px}
 @media(max-width:900px){.home-hero{padding:38px 24px 26px}.hero-mini-grid{grid-template-columns:1fr}.home-trust{grid-template-columns:1fr 1fr}.home-hero-copy h1{font-size:48px}}
 @media(max-width:600px){.home-hero{min-height:auto;border-radius:0 0 24px 24px}.home-hero-copy h1{font-size:39px}.home-hero-copy p{font-size:16px}.hero-city-search{border-radius:18px;align-items:stretch;flex-direction:column;padding:14px}.hero-city-search a{text-align:center}.home-trust{grid-template-columns:1fr}.hero-city-pills{color:#173f2b}}
+
+
+/* Compact Compare Cities above-the-fold layout */
+.comparelanding{padding-top:22px!important}
+.comparelanding>.crumb{margin-bottom:8px}
+.comparelanding>.pagehero{padding:22px 28px!important;margin-bottom:14px!important;min-height:0!important}
+.comparelanding>.pagehero .eyebrow{margin-bottom:6px}
+.comparelanding>.pagehero h1{font-size:clamp(34px,4vw,54px)!important;line-height:1!important;margin:4px 0 8px!important}
+.comparelanding>.pagehero p{max-width:820px;margin:0!important;font-size:16px!important}
+.compareprocontrols{padding:18px 22px!important;margin-bottom:14px!important;border-radius:22px!important}
+.compareprotop{margin-bottom:12px!important}
+.compareprotop h2{font-size:27px!important;margin:3px 0 4px!important}
+.compareprotop p{margin:0!important;font-size:14px!important}
+.compareinputs{gap:10px!important;margin:10px 0!important}
+.compareinputs label,.cityselectors label{font-size:12px!important;margin-bottom:4px!important}
+.compareinputs input,.compareinputs select,.cityselectors select{min-height:42px!important;padding:9px 11px!important}
+.cityselectors{gap:10px!important;margin:10px 0!important}
+.comparepresets{margin-top:8px!important;gap:7px!important}
+.comparepresets button{padding:8px 12px!important;font-size:12px!important}
+.compareprogrid{gap:14px!important;margin-top:12px!important;align-items:start}
+.compareprogrid .procard{border-radius:20px!important}
+.compare-city-photo{height:145px!important;margin-bottom:12px!important}
+.compare-city-photo span{font-size:23px!important;bottom:12px!important}
+.compareprogrid .cityhead{padding-top:0!important}
+.compareprogrid .cityhead h3{font-size:26px!important;margin:3px 0!important}
+.compareprogrid .cityhero{padding:14px 16px!important;margin:10px 0!important}
+.compareprogrid .cityhero strong{font-size:31px!important}
+.compareprogrid .costrows p{padding:8px 0!important;margin:0!important;font-size:13px!important}
+.compareprogrid .source{font-size:10px!important}
+@media(min-width:1050px){.comparelanding{max-width:1380px!important}.compareprogrid{grid-template-columns:repeat(3,minmax(0,1fr))!important}}
+@media(max-width:700px){.comparelanding{padding-top:12px!important}.comparelanding>.pagehero{padding:18px!important}.compareprocontrols{padding:15px!important}.compareprotop{display:block!important}.countrytoggle{margin-top:10px}.compare-city-photo{height:150px!important}}
