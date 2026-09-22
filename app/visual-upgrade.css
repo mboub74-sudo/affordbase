@@ -106,3 +106,14 @@ body>.site-header~header,body>.site-header~main+footer:not(.site-footer){display
 .header-cta{background:linear-gradient(135deg,#173f2b,#24764e)}
 .site-footer{background:radial-gradient(circle at 10% 10%,#1b5037 0,transparent 26%),radial-gradient(circle at 92% 12%,#203e61 0,transparent 24%),#10251b}
 @media(max-width:700px){.page-visual{border-width:4px}.pagehero h1{line-height:1.08}}
+
+
+/* Rich city photo cards */
+.city-page{background:radial-gradient(circle at 7% 22%,rgba(85,169,232,.11),transparent 22%),radial-gradient(circle at 93% 42%,rgba(120,201,154,.12),transparent 24%),linear-gradient(180deg,#fff,#f8fbff 55%,#f8fbf8)}
+.city-page .city-visual{height:390px;border:6px solid rgba(255,255,255,.94);transition:transform .25s ease,box-shadow .25s ease}
+.city-page .city-visual:hover{transform:translateY(-4px);box-shadow:0 25px 65px #14231c25}
+.city-page .city-visual:before{content:"CITY BUDGET • 2026";position:absolute;z-index:2;left:28px;top:26px;padding:8px 12px;border-radius:999px;background:rgba(255,255,255,.9);color:#173f2b;font:800 11px Arial,sans-serif;letter-spacing:.1em;backdrop-filter:blur(8px)}
+.city-page .city-visual:after{background:linear-gradient(180deg,rgba(5,20,14,.03) 20%,rgba(7,27,19,.76) 100%)}
+.city-page .city-visual span{z-index:2;font-size:34px;max-width:650px}
+.city-page .content{background:linear-gradient(180deg,rgba(255,255,255,.82),rgba(249,252,250,.92))}
+@media(max-width:700px){.city-page .city-visual{height:250px}.city-page .city-visual:before{left:18px;top:18px}.city-page .city-visual span{font-size:25px}}
