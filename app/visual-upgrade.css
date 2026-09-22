@@ -73,3 +73,16 @@ body>footer:not(.site-footer){display:none}
 body>.site-header~header,body>.site-header~main+footer:not(.site-footer){display:none}
 @media(max-width:980px){.main-nav{gap:14px}.main-nav a:nth-last-child(-n+2){display:none}}
 @media(max-width:760px){.site-header{height:66px;padding:0 18px}.main-nav{display:none}.header-cta{margin-left:auto;padding:10px 13px}}
+
+
+/* Richer 2026 visual system */
+:root{--ab-purple:#7257d9;--ab-sky:#55a9e8;--ab-peach:#ffb08f;--ab-lemon:#f2cf68}
+.pagehero{overflow:hidden;border-radius:0 0 36px 36px;background:radial-gradient(circle at 12% 20%,#e5f6e9 0,transparent 25%),radial-gradient(circle at 88% 16%,#e9efff 0,transparent 25%),linear-gradient(135deg,#fffdf7,#f7fbff);padding-bottom:38px}
+.pagehero:after{content:"";position:absolute;width:170px;height:170px;border-radius:50%;right:5%;top:16%;background:linear-gradient(135deg,#ffdca0,#ffc9b8);opacity:.35;filter:blur(2px);pointer-events:none}
+.seo-visual{transition:transform .25s ease,box-shadow .25s ease}.seo-visual:hover{transform:translateY(-4px);box-shadow:0 24px 60px #14231c25}
+.content{position:relative}.content>h2{margin-top:42px}.content>h2:after{content:"";display:block;width:52px;height:4px;border-radius:99px;margin-top:9px;background:linear-gradient(90deg,#1d7a4c,#55a9e8,#f2cf68)}
+.faqItem{border:1px solid #e3eae5;border-left:5px solid #78c99a;border-radius:16px;padding:17px 19px;margin:12px 0;background:linear-gradient(135deg,#fff,#f6fbf8);box-shadow:0 8px 24px #173f2b09}
+.faqItem:nth-of-type(even){border-left-color:#7eaee8;background:linear-gradient(135deg,#fff,#f5f8ff)}
+.linkgrid a{border:1px solid #e1e9e3;border-radius:14px;background:#fff;box-shadow:0 8px 22px #173f2b0a;transition:.2s transform,.2s box-shadow,.2s border-color}.linkgrid a:hover{transform:translateY(-3px);box-shadow:0 14px 30px #173f2b14;border-color:#9bcdb0}
+.landing #calculator,.landing .calculator{border-radius:24px;box-shadow:0 20px 50px #173f2b10}
+@media(max-width:700px){.pagehero{border-radius:0 0 24px 24px}.content>h2{margin-top:34px}}
