@@ -5,7 +5,7 @@ import {SITE_URL} from './site';
 const redirectedCitySlugs=new Set(['salary-needed-to-live-in-toronto','salary-needed-to-live-in-vancouver','salary-needed-to-live-in-montreal','salary-needed-to-live-in-calgary','salary-needed-to-live-in-new-york','salary-needed-to-live-in-miami']);
 
 const pairs=[['Toronto','Calgary'],['Toronto','Vancouver'],['Toronto','Montreal'],['New York City','Miami'],['New York City','Chicago'],['Los Angeles','Miami']];
-const standalone=['compare-cities','dashboard','salary-needed-calculator','closing-cost-calculator','goal-planner','80000-salary-after-tax','about','contact','privacy','terms','disclaimer'];
+const standalone=['articles/rent-vs-buy-canada-2026','compare-cities','dashboard','salary-needed-calculator','closing-cost-calculator','goal-planner','80000-salary-after-tax','about','contact','privacy','terms','disclaimer'];
 
 export default function sitemap(){
  const base=SITE_URL;
