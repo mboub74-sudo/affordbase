@@ -25,7 +25,7 @@ function SiteHeader(){
    <Link href="/car-affordability-calculator/">Car</Link>
    <Link href="/mortgage-affordability-calculator/">Home</Link>
    <Link href="/compare-cities/">Cities</Link>
-   <Link href="/goal-planner/">Goals</Link>
+   <Link href="/goal-planner/">Goals</Link>\n   <Link href="/articles/">Articles</Link>
   </nav>
   <Link className="header-cta" href="/dashboard/">Plan my budget</Link>
  </header>
