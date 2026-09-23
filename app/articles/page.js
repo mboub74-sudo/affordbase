@@ -1,6 +1,7 @@
 import Link from 'next/link';
 export const metadata={title:'Financial Guides & Articles',description:'Practical AffordBase guides about salary, rent, mortgages, home buying and cost of living in Canada and the United States.',alternates:{canonical:'/articles/'}};
 const articles=[
+ {href:'/articles/how-much-rent-can-i-afford-toronto-2026/',tag:'TORONTO RENT',title:'How Much Rent Can I Afford in Toronto in 2026?',desc:'Use current Toronto rent data, income benchmarks and a realistic monthly budget to find your rent target.',cls:'article-card-toronto'},
  {href:'/articles/income-needed-to-buy-house-canada-2026/',tag:'HOME BUYING',title:'How Much Income Do You Need to Buy a House in Canada in 2026?',desc:'Understand mortgage qualification, GDS/TDS ratios, the stress test, down payments and closing costs.',cls:'article-card-home'},
  {href:'/articles/rent-vs-buy-canada-2026/',tag:'HOUSING',title:'Rent vs Buy in Canada 2026: Which Costs Less?',desc:'Compare current rents, ownership costs, mortgage considerations, flexibility and long-term equity.',cls:'article-card-rent'}
 ];
