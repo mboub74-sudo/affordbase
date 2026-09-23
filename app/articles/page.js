@@ -1,6 +1,7 @@
 import Link from 'next/link';
 export const metadata={title:'Financial Guides & Articles',description:'Practical AffordBase guides about salary, rent, mortgages, home buying and cost of living in Canada and the United States.',alternates:{canonical:'/articles/'}};
 const articles=[
+ {href:'/articles/how-much-should-you-spend-on-rent-30-rule/',tag:'RENT BUDGET',title:'How Much Should You Spend on Rent? 30% Rule vs Real Budget',desc:'Understand Canada’s 30% benchmark, then build a realistic rent target around take-home pay, debt, savings and real expenses.',cls:'article-card-rent-30-rule'},
  {href:'/articles/how-much-house-can-i-afford-100k-salary-canada/',tag:'HOME AFFORDABILITY',title:'How Much House Can I Afford on a $100K Salary in Canada?',desc:'See how mortgage rules, the stress test, down payment and debt shape a $100K household’s 2026 home budget.',cls:'article-card-100k-house'},
  {href:'/articles/is-renting-getting-cheaper-canada-2026/',tag:'CANADA RENT TRENDS',title:'Is Renting Getting Cheaper in Canada in 2026?',desc:'See where asking rents are falling or rising and what Canada’s easing rental market really means for your budget.',cls:'article-card-canada-rent-trends'},
  {href:'/articles/vancouver-vs-toronto-cost-of-living/',tag:'CITY COMPARISON',title:'Vancouver vs Toronto Cost of Living: Salary, Rent & Housing',desc:'Compare 2026 rent, housing, salary needs, taxes and monthly-budget trade-offs using current Canadian data.',cls:'article-card-vancouver-toronto'},
