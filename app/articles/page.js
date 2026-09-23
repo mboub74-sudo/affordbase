@@ -1,6 +1,7 @@
 import Link from 'next/link';
 export const metadata={title:'Financial Guides & Articles',description:'Practical AffordBase guides about salary, rent, mortgages, home buying and cost of living in Canada and the United States.',alternates:{canonical:'/articles/'}};
 const articles=[
+ {href:'/articles/is-renting-getting-cheaper-canada-2026/',tag:'CANADA RENT TRENDS',title:'Is Renting Getting Cheaper in Canada in 2026?',desc:'See where asking rents are falling or rising and what Canada’s easing rental market really means for your budget.',cls:'article-card-canada-rent-trends'},
  {href:'/articles/vancouver-vs-toronto-cost-of-living/',tag:'CITY COMPARISON',title:'Vancouver vs Toronto Cost of Living: Salary, Rent & Housing',desc:'Compare 2026 rent, housing, salary needs, taxes and monthly-budget trade-offs using current Canadian data.',cls:'article-card-vancouver-toronto'},
  {href:'/articles/toronto-vs-calgary-cost-of-living-2026/',tag:'CITY COMPARISON',title:'Toronto vs Calgary Cost of Living 2026',desc:'Compare rent, housing, taxes, transportation and the monthly budget using current 2026 data.',cls:'article-card-toronto-calgary'},
  {href:'/articles/how-much-rent-can-i-afford-toronto-2026/',tag:'TORONTO RENT',title:'How Much Rent Can I Afford in Toronto in 2026?',desc:'Use current Toronto rent data, income benchmarks and a realistic monthly budget to find your rent target.',cls:'article-card-toronto'},
