@@ -5,7 +5,7 @@ import {SITE_URL} from './site';
 const redirectedCitySlugs=new Set(['salary-needed-to-live-in-toronto','salary-needed-to-live-in-vancouver','salary-needed-to-live-in-montreal','salary-needed-to-live-in-calgary','salary-needed-to-live-in-new-york','salary-needed-to-live-in-miami']);
 
 const pairs=[['Toronto','Calgary'],['Toronto','Vancouver'],['Toronto','Montreal'],['New York City','Miami'],['New York City','Chicago'],['Los Angeles','Miami']];
-const standalone=['articles','articles/toronto-vs-calgary-cost-of-living-2026','articles/how-much-rent-can-i-afford-toronto-2026','articles/rent-vs-buy-canada-2026','articles/income-needed-to-buy-house-canada-2026','compare-cities','dashboard','salary-needed-calculator','closing-cost-calculator','goal-planner','80000-salary-after-tax','about','contact','privacy','terms','disclaimer'];
+const standalone=['articles','articles/vancouver-vs-toronto-cost-of-living','articles/toronto-vs-calgary-cost-of-living-2026','articles/how-much-rent-can-i-afford-toronto-2026','articles/rent-vs-buy-canada-2026','articles/income-needed-to-buy-house-canada-2026','compare-cities','dashboard','salary-needed-calculator','closing-cost-calculator','goal-planner','80000-salary-after-tax','about','contact','privacy','terms','disclaimer'];
 
 export default function sitemap(){
  const base=SITE_URL;
