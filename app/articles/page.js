@@ -1,6 +1,7 @@
 import Link from 'next/link';
 export const metadata={title:'Financial Guides & Articles',description:'Practical AffordBase guides about salary, rent, mortgages, home buying and cost of living in Canada and the United States.',alternates:{canonical:'/articles/'}};
 const articles=[
+ {href:'/articles/canadian-cities-70k-salary-cost-of-living/',tag:'$70K CITY BUDGET',title:'Best Canadian Cities for a $70K Salary: Cost-of-Living Comparison',desc:'Compare 2026 asking rents and housing pressure across Canadian cities on a $70,000 gross salary.',cls:'article-card-70k-cities'},
  {href:'/articles/mortgage-vs-rent-true-monthly-cost-homeownership/',tag:'RENT VS OWN',title:'Mortgage vs Rent: The True Monthly Cost of Homeownership',desc:'Compare rent with the full cost of owning: mortgage, taxes, insurance, maintenance, condo fees, utilities and closing costs.',cls:'article-card-mortgage-rent-cost'},
  {href:'/articles/how-much-should-you-spend-on-rent-30-rule/',tag:'RENT BUDGET',title:'How Much Should You Spend on Rent? 30% Rule vs Real Budget',desc:'Understand Canada’s 30% benchmark, then build a realistic rent target around take-home pay, debt, savings and real expenses.',cls:'article-card-rent-30-rule'},
  {href:'/articles/how-much-house-can-i-afford-100k-salary-canada/',tag:'HOME AFFORDABILITY',title:'How Much House Can I Afford on a $100K Salary in Canada?',desc:'See how mortgage rules, the stress test, down payment and debt shape a $100K household’s 2026 home budget.',cls:'article-card-100k-house'},
