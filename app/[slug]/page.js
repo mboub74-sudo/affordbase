@@ -19,6 +19,8 @@ const crossLinks={
 };
 
 const mortgageHubLinks=[
+ ['/mortgage-stress-test-calculator-canada/','Mortgage Stress Test Calculator Canada'],
+ ['/mortgage-payment-calculator-canada/','Mortgage Payment Calculator Canada'],
  ['/mortgage-affordability-calculator/','Canada Mortgage Affordability Calculator'],
  ['/mortgage-affordability-calculator-ontario/','Ontario Mortgage Affordability Calculator'],
  ['/mortgage-affordability-calculator-alberta/','Alberta Mortgage Affordability Calculator'],
