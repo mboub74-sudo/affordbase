@@ -28,7 +28,10 @@ const mortgageHubLinks=[
  ['/income-needed-for-400k-mortgage/','Income Needed for a $400K Mortgage'],
  ['/income-needed-for-450k-mortgage/','Income Needed for a $450K Mortgage'],
  ['/income-needed-for-500k-mortgage/','Income Needed for a $500K Mortgage'],
- ['/income-needed-for-600k-mortgage/','Income Needed for a $600K Mortgage']
+ ['/income-needed-for-600k-mortgage/','Income Needed for a $600K Mortgage'],
+ ['/income-needed-for-700k-mortgage/','Income Needed for a $700K Mortgage'],
+ ['/income-needed-for-800k-mortgage/','Income Needed for an $800K Mortgage'],
+ ['/income-needed-for-1m-mortgage/','Income Needed for a $1M Mortgage']
 ];
 
 function relatedPages(p){
