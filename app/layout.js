@@ -46,5 +46,5 @@ function SiteFooter(){
 
 export default function Layout({children}){
  const schema={"@context":"https://schema.org","@graph":[{"@type":"WebSite","name":"AffordBase","url":SITE_URL,"description":"Affordability and financial planning calculators for the US and Canada."},{"@type":"Organization","name":"AffordBase","url":SITE_URL,"email":"affordbase@gmail.com"}]};
- return <html lang="en"><head><script src="https://d3u598arehftfk.cloudfront.net/prebid_hb_15681_43859.js" async></script></head><body><SiteHeader/>{children}<SiteFooter/><script type="application/ld+json" dangerouslySetInnerHTML={{__html:JSON.stringify(schema)}}/></body></html>
+ return <html lang="en"><head><script src="https://d3u598arehftfk.cloudfront.net/prebid_hb_15681_43859.js" async></script></head><body><SiteHeader/>{children}<div className="hb-ad-inarticle" aria-label="Advertisement"><div className="hb-ad-inner"><div className="hbagency_cls" id="hbagency_space_343401"></div></div></div><SiteFooter/><script type="application/ld+json" dangerouslySetInnerHTML={{__html:JSON.stringify(schema)}}/></body></html>
 }
