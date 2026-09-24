@@ -1,0 +1,14 @@
+'use client';
+import {useMemo,useState} from 'react';
+
+const safe=v=>Math.max(0,Number(v)||0);
+const money=n=>new Intl.NumberFormat('en-CA',{style:'currency',currency:'CAD',maximumFractionDigits:0}).format(Number.isFinite(n)?n:0);
+function payment(principal,annualRate,years){const n=Math.max(1,years*12),r=safe(annualRate)/1200;if(!r)return principal/n;return principal*r*Math.pow(1+r,n)/(Math.pow(1+r,n)-1)}
+
+export default function MortgagePaymentCanada(){
+ const [price,setPrice]=useState(600000),[down,setDown]=useState(120000),[rate,setRate]=useState(4.75),[years,setYears]=useState(25),[tax,setTax]=useState(450),[heat,setHeat]=useState(150),[condo,setCondo]=useState(0);
+ const r=useMemo(()=>{const principal=Math.max(0,safe(price)-safe(down)),monthly=payment(principal,rate,years),total=monthly*years*12,interest=Math.max(0,total-principal),housing=monthly+safe(tax)+safe(heat)+safe(condo)*.5;return{principal,monthly,total,interest,housing}},[price,down,rate,years,tax,heat,condo]);
+ return <section className="mortgageCalc"><div className="mortgageInputs"><div className="eyebrow">CANADA MORTGAGE PAYMENT</div><h2>Calculate your monthly mortgage payment</h2><p>Enter the home price, down payment, rate and amortization. Add housing costs for a fuller monthly estimate.</p><div className="mortgageGrid"><Field label="Home price" value={price} set={setPrice}/><Field label="Down payment" value={down} set={setDown}/><Field label="Mortgage rate (%)" value={rate} set={setRate} step="0.01"/><div><label>Amortization</label><select value={years} onChange={e=>setYears(+e.target.value)}>{[15,20,25,30].map(x=><option key={x}>{x}</option>)}</select></div><Field label="Property tax / month" value={tax} set={setTax}/><Field label="Heating / month" value={heat} set={setHeat}/><Field label="Condo fees / month" value={condo} set={setCondo}/></div><small>Planning estimate only. Payment frequency, compounding conventions, mortgage insurance and lender calculations can change actual payments.</small></div><div className="mortgageResults"><div className="eyebrow">ESTIMATED PAYMENT</div><div className="homePrice"><span>Monthly mortgage payment</span><strong>{money(r.monthly)}</strong><small>principal + interest</small></div><div className="mortgageCards"><Metric t="Mortgage amount" v={money(r.principal)}/><Metric t="Total interest" v={money(r.interest)}/><Metric t="Total payments" v={money(r.total)}/><Metric t="Housing-cost estimate" v={money(r.housing)+'/mo'}/></div></div></section>
+}
+function Field({label,value,set,step='1'}){return <div><label>{label}</label><input type="number" min="0" step={step} value={value} onChange={e=>set(safe(e.target.value))}/></div>}
+function Metric({t,v}){return <div className="mortgageMetric"><span>{t}</span><strong>{v}</strong></div>}
