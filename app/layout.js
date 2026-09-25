@@ -27,8 +27,12 @@ function SiteHeader(){
    <Link href="/compare-cities/">Cities</Link>
    <Link href="/goal-planner/">Goals</Link>
    <Link href="/articles/">Articles</Link>
-   <Link href="/media/">Media</Link>
   </nav>
+  <form className="header-search" action="/search/" method="get" role="search">
+   <label className="sr-only" htmlFor="site-search">Search AffordBase</label>
+   <input id="site-search" name="q" type="search" placeholder="Search..." aria-label="Search AffordBase" />
+   <button type="submit" aria-label="Search">Search</button>
+  </form>
   <Link className="header-cta" href="/dashboard/">Plan my budget</Link>
  </header>
 }
