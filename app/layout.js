@@ -27,6 +27,7 @@ function SiteHeader(){
    <Link href="/compare-cities/">Cities</Link>
    <Link href="/goal-planner/">Goals</Link>
    <Link href="/articles/">Articles</Link>
+   <Link href="/media/">Media</Link>
   </nav>
   <Link className="header-cta" href="/dashboard/">Plan my budget</Link>
  </header>
