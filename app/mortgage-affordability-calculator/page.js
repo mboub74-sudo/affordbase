@@ -4,8 +4,8 @@ import {SITE_URL} from '../site';
 
 const slug='/mortgage-affordability-calculator/';
 const url=`${SITE_URL}${slug}`;
-const title='Mortgage Affordability Calculator Canada 2026';
-const description='Free Canadian mortgage affordability calculator. Estimate how much home you can afford using income, debt, down payment, mortgage rate, GDS/TDS ratios and the 2026 mortgage stress test.';
+const title='Home Affordability Calculator Canada 2026 | Mortgage Calculator';
+const description='Use our free home affordability calculator for Canada to estimate how much house and mortgage you can afford based on income, debt, down payment, rates and 2026 qualification rules.';
 
 export const metadata={title,description,alternates:{canonical:slug},openGraph:{title,description,url,type:'website',siteName:'AffordBase'}};
 
@@ -26,12 +26,14 @@ export default function Page(){
   <script type="application/ld+json" dangerouslySetInnerHTML={{__html:JSON.stringify(appSchema)}}/>
   <script type="application/ld+json" dangerouslySetInnerHTML={{__html:JSON.stringify(breadcrumb)}}/>
   <script type="application/ld+json" dangerouslySetInnerHTML={{__html:JSON.stringify(faqSchema)}}/>
-  <section className="subhero"><div className="pill">CANADA · 2026 MORTGAGE AFFORDABILITY</div><p className="breadcrumb"><Link href="/">AffordBase</Link> / Mortgage Affordability Calculator Canada</p><h1>Mortgage Affordability Calculator <em>Canada 2026</em></h1><p>Estimate how much home you can afford from household income, down payment, debt and ownership costs—then compare the result with Canada's debt-service ratios and mortgage stress-test framework.</p></section>
+  <section className="subhero"><div className="pill">CANADA · 2026 MORTGAGE AFFORDABILITY</div><p className="breadcrumb"><Link href="/">AffordBase</Link> / Mortgage Affordability Calculator Canada</p><h1>Home & Mortgage Affordability Calculator <em>Canada 2026</em></h1><p>Estimate how much home you can afford from household income, down payment, debt and ownership costs—then compare the result with Canada's debt-service ratios and mortgage stress-test framework.</p></section>
   <div className="page-visual visual-home" role="img" aria-label="Canadian home affordability planning"><span>Income → debt → stress test → down payment → realistic home budget.</span></div>
 
-  <section className="mortgageSeo"><h2>How much mortgage can you afford in Canada?</h2><p>A lender does not look at salary alone. Mortgage qualification can depend on verified gross household income, mortgage payments, property taxes, heating costs, condo fees, other monthly debt and your qualifying interest rate. For personal planning, you should also consider closing costs, maintenance, utilities and an emergency fund.</p><div className="article-callout"><strong>2026 Canadian qualification framework</strong><p>Federal consumer guidance uses a <strong>39% GDS</strong> guideline for monthly housing costs and a <strong>44% TDS</strong> guideline after other debts are included. The mortgage stress test generally uses the higher of <strong>5.25%</strong> or your contract rate <strong>+2 percentage points</strong>.</p></div></section>
+  <section className="mortgageSeo"><h2>Home Affordability Calculator Canada: How Much House Can You Afford?</h2><p>A lender does not look at salary alone. Mortgage qualification can depend on verified gross household income, mortgage payments, property taxes, heating costs, condo fees, other monthly debt and your qualifying interest rate. For personal planning, you should also consider closing costs, maintenance, utilities and an emergency fund.</p><div className="article-callout"><strong>2026 Canadian qualification framework</strong><p>Federal consumer guidance uses a <strong>39% GDS</strong> guideline for monthly housing costs and a <strong>44% TDS</strong> guideline after other debts are included. The mortgage stress test generally uses the higher of <strong>5.25%</strong> or your contract rate <strong>+2 percentage points</strong>.</p></div></section>
 
   <MortgageAffordability/>
+
+  <section className="mortgageSeo"><h2>How this home affordability calculator works</h2><p>Enter your household income, down payment, monthly debt, mortgage rate and expected ownership costs. The calculator gives you a practical home affordability estimate so you can see the home price and mortgage range your budget may support before comparing it with lender qualification rules.</p><p>If you searched for a <strong>home affordability calculator</strong> or a <strong>mortgage affordability calculator</strong>, this tool is designed for the same core question: how much home can your income and current debts realistically support in Canada?</p></section>
 
   <section className="mortgageSeo"><h2>Canada mortgage affordability: GDS and TDS</h2><p><strong>Gross Debt Service (GDS)</strong> compares housing costs with gross household income. Housing costs generally include the mortgage payment, property taxes, heating and 50% of condo fees where applicable. Federal guidance says these monthly housing costs generally should not exceed 39% of gross household income.</p><p><strong>Total Debt Service (TDS)</strong> adds other debt obligations such as car loans, credit cards, lines of credit and student loans. Federal guidance uses 44% of gross household income as the general TDS threshold.</p><p>These ratios are qualification guidelines rather than a promise that a particular lender will approve a specific mortgage.</p></section>
 
