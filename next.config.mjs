@@ -16,5 +16,5 @@ const cityRedirects=[
 
 export default {
  async headers(){return [{source:'/:path*',headers:securityHeaders}]},
- async redirects(){return cityRedirects.map(([oldSlug,city])=>({source:`/${oldSlug}/`,destination:`/cities/${city}/`,permanent:true}))}
+ async redirects(){return [...cityRedirects.map(([oldSlug,city])=>({source:`/${oldSlug}/`,destination:`/cities/${city}/`,permanent:true})),{source:'/rent-to-income-calculator',destination:'/rent-to-income-calculator/',permanent:true}]}
 };
