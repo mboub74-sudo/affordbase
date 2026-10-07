@@ -28,6 +28,7 @@ export default function Page(){
    <div className="eyebrow">CAR AFFORDABILITY · 2026 GUIDE</div>
    <h1>How Much Car Can I Afford Based on Salary? 2026 Guide</h1>
    <p className="lede">Your salary is a useful starting point for a car budget, but it is not the whole answer. The car you can comfortably afford depends on take-home pay, existing debt, cash available for a down payment, financing terms and the recurring cost of actually owning the vehicle.</p>
+   <figure style={{margin:'28px 0 34px'}}><img src="/images/car-affordability-salary-2026.png" alt="How much car can I afford based on salary 2026 guide" width="1536" height="1024" loading="eager" style={{width:'100%',height:'auto',borderRadius:'18px',display:'block'}}/><figcaption style={{marginTop:'8px',fontSize:'0.9rem',opacity:.75}}>Compare salary, monthly payment, APR, down payment and total ownership costs before choosing a car budget.</figcaption></figure>
 
    <section className="quickanswer"><strong>Quick answer:</strong> Do not convert salary directly into a maximum vehicle price. First decide how much room your monthly budget has for <strong>the loan payment plus insurance, fuel or charging, maintenance, registration and parking</strong>. Then use your down payment, APR and loan term to estimate the vehicle price that fits that monthly limit.</section>
 
