@@ -27,6 +27,7 @@ export default function Page(){
    <div className="eyebrow">CANADA · MORTGAGE GUIDE · 2026</div>
    <h1>How Much Mortgage Can I Afford in Canada? 2026 Guide</h1>
    <p className="lede">The mortgage you can afford in Canada is not determined by salary alone. Lenders look at income, housing costs, existing debt, your down payment and the interest rate used to qualify you. For a useful personal estimate, you also need to think about the costs that continue after you get the keys.</p>
+   <figure style={{margin:'28px 0 34px'}}><img src="/images/mortgage-affordability-canada-2026.jpg" alt="How much mortgage can I afford in Canada 2026 guide with home affordability factors" width="1536" height="1024" loading="eager" style={{width:'100%',height:'auto',borderRadius:'18px',display:'block'}}/><figcaption style={{marginTop:'8px',fontSize:'0.9rem',opacity:.75}}>Mortgage affordability in Canada depends on income, down payment, interest rates, debt and monthly housing costs.</figcaption></figure>
 
    <section className="quickanswer"><strong>Quick answer:</strong> Canadian mortgage qualification commonly starts with two debt-service measures. Housing costs generally should stay at or below <strong>39% of gross household income (GDS)</strong>, while housing costs plus other debt generally should stay at or below <strong>44% (TDS)</strong>. You must also account for the mortgage stress test, which can make the qualifying payment higher than the payment at your contract rate.</section>
 
