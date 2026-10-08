@@ -26,6 +26,7 @@ export default function Page(){
    <div className="crumb"><Link href="/">Home</Link> / Rent-to-Income Calculator</div>
    <section className="pagehero"><div className="eyebrow">HOUSING RATIO</div><h1>Rent-to-Income Ratio Calculator</h1><p>See what percentage of your gross monthly income goes to rent, compare it with a common 30% reference, and put the ratio in the context of your broader budget.</p></section>
    <section className="content quickanswer"><strong>Quick answer:</strong> Rent-to-income ratio = <b>monthly rent ÷ monthly gross income × 100</b>. If rent is <b>$2,000</b> and gross income is <b>$6,500/month</b>, the ratio is about <b>30.8%</b>.</section>
+   <figure style={{maxWidth:'1100px',margin:'22px auto 30px',padding:'0 16px'}}><img src="/images/rent-to-income-calculator.png" alt="Rent-to-income calculator showing Canadian rent affordability, the 30 percent guideline, and 2.5x and 3x rent income rules" width="1536" height="1024" loading="eager" style={{display:'block',width:'100%',height:'auto',borderRadius:'16px'}}/><figcaption style={{fontSize:'0.9rem',marginTop:'8px',opacity:0.75}}>Estimate your rent-to-income ratio and compare common rental affordability guidelines.</figcaption></figure>
    <RentToIncomeCalculator/>
    <section className="content">
     <h2>What is a rent-to-income ratio?</h2><p>Your rent-to-income ratio shows how much of your gross income is committed to monthly rent. It is useful for quickly comparing housing costs across salaries or apartments, but it does not show your complete financial picture.</p>
