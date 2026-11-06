@@ -10,7 +10,7 @@ export const metadata={
  applicationName:'AffordBase',
  alternates:{canonical:'/'},
  openGraph:{type:'website',siteName:'AffordBase',title:'AffordBase — Know What You Can Afford',description:'Plan salary, rent, car, city, savings and home goals with practical affordability tools.',url:SITE_URL},
- twitter:{card:'summary_large_image',title:'AffordBase — Know What You Can Afford',description:'Practical affordability and financial planning tools for the US and Canada.'},
+ twitter:{card:'summary_large_image',images:[{url:'/opengraph-image',alt:'AffordBase affordability calculators for Canada and the US'}],title:'AffordBase — Know What You Can Afford',description:'Practical affordability and financial planning tools for the US and Canada.'},
  robots:{index:true,follow:true},
 };
 export const viewport={width:'device-width',initialScale:1,themeColor:'#173f2b'};
