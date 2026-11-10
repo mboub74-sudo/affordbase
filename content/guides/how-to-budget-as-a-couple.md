@@ -1,0 +1,125 @@
+# How to Budget as a Couple: Split Bills and Plan Together
+
+Budgeting as a couple means agreeing on what your household money needs to do, how each person contributes, and how you will review the result. It does not require identical spending habits or a single account for everything. A workable system gives both partners clear information, a voice in decisions, and an agreed process for shared obligations.
+
+Start with reliable take-home income and the expenses you consider shared. Choose a bill-splitting method, map payment dates, and decide how personal spending and joint goals fit around those commitments. The fictional examples in this guide use one currency at a time and can illustrate the arithmetic in CAD or USD. They are not legal, tax, or relationship rules.
+
+## Begin with a conversation before choosing accounts
+
+Discuss what each of you wants the budget to improve. One partner may want fewer payment surprises, while the other wants to save for a home or maintain financial independence. Naming those goals helps you design a system around real needs instead of copying another couple's arrangement.
+
+Choose a calm time and work from statements rather than memory. Explain preferences without treating them as universal truths. A person who likes a detailed spreadsheet and a person who prefers a short checklist can still share a useful budget if both understand the figures and agree on the review process.
+
+## Create a complete picture of household income
+
+List the amount each person reliably receives after deductions and the dates deposits arrive. Separate regular earnings from bonuses, reimbursements, overtime, and uncertain income. If one partner has variable earnings, agree which baseline supports commitments and how additional money will be handled once received.
+
+Do not assume annual gross salaries describe equal available cash. Payroll deductions and other obligations can differ. Use the income measure you agree is relevant to sharing bills, then check that the method leaves each person enough for their own necessary commitments and the household's stated priorities.
+
+## Define shared expenses clearly
+
+Write down which costs belong to the household: rent or mortgage payments, utilities, groceries, insurance, transport, childcare, household supplies, and other agreed items. Some expenses may be partly shared. A vehicle used by both partners, for example, may require a different arrangement from a vehicle used only for one person's work.
+
+Clarify what remains personal, including existing debts, gifts, hobbies, clothing, or support obligations. There is no need to categorize every purchase perfectly on day one. Start with the costs that affect payment deadlines or fairness, then resolve unclear categories before they become repeated sources of disagreement.
+
+## Compare three ways to organize accounts
+
+The FCAC describes arrangements involving fully joint finances, a joint account for household costs alongside personal accounts, or separate accounts with shared bills divided between partners. These options provide different levels of convenience and separation. The account structure is a tool for carrying out the agreement, not a substitute for one.
+
+With fully shared accounts, both people need visibility into commitments and personal allowances. With a household-only account, agree how much each contributes and when. With separate accounts, maintain a shared record so that splitting provider payments does not hide whether one partner is covering substantially more than agreed.
+
+## Understand the terms before opening joint products
+
+Review access rights, fees, withdrawal permissions, overdraft features, and what happens if one holder wants to close or change an account. Ask the institution about unclear terms. A convenient shared account may carry responsibilities that differ from your informal understanding of how the money will be used.
+
+Account arrangements do not settle every question about property ownership, tax treatment, or debt responsibility. Those depend on agreements, products, and applicable law. Seek appropriate professional advice when the issue affects a home purchase, significant assets, borrowing, or a change in relationship status rather than relying on a budgeting worksheet.
+
+## Test an equal bill split
+
+An equal split assigns half the agreed shared costs to each person. If household expenses total $3,000, each contributes $1,500. This is simple to calculate and may work well when income and other circumstances are similar. It can be less comfortable when available income differs substantially.
+
+Suppose one partner takes home $4,000 and the other $2,000. After equal contributions, they have $2,500 and $500 respectively, before personal costs. Those results do not automatically make the method wrong, but both people should understand them. A mathematically equal bill split does not necessarily create an equally comfortable household arrangement.
+
+## Calculate an income-proportional split
+
+For a proportional method, divide each person's agreed income by combined income, then apply that share to shared costs. With take-home amounts of $4,000 and $2,000, the combined amount is $6,000. The contributions are two-thirds and one-third of the shared expense total.
+
+For $3,000 of shared costs, the first partner contributes $2,000 and the second $1,000. Each has contributed fifty percent of their take-home income in this example. The method is transparent, but it still needs discussion about personal obligations, unpaid caregiving, variable pay, and which expenses are included.
+
+## Consider a tailored contribution agreement
+
+Some couples choose contributions based on what remains after agreed essential personal costs, or aim to leave comparable discretionary amounts. Others allocate provider bills directly and reconcile the difference monthly. These approaches can work when the assumptions are clear and both partners freely agree to them.
+
+Write down the reason for the arrangement and a review date. Avoid presenting a tailored calculation as objectively fair without acknowledging the choices inside it. Deciding which debts, costs, or responsibilities count is itself part of the agreement. The formula should make that discussion visible rather than appear to settle it automatically.
+
+## Build a complete worked household example
+
+Imagine combined take-home income of $6,000. Shared monthly assignments are $1,800 for housing, $250 for utilities and internet, $550 for groceries, $200 for shared transport, $100 for household insurance and services, $200 for annual expenses, and $500 for shared savings. The household total is $3,600.
+
+Using the two-thirds and one-third split, contributions become $2,400 and $1,200. Against take-home incomes of $4,000 and $2,000, this leaves $1,600 and $800 for personal commitments and spending. Check those remaining amounts against each person's real needs before calling the household plan complete. The example demonstrates arithmetic rather than typical costs.
+
+## Coordinate different pay schedules
+
+Place both sets of paydays and shared due dates on one calendar. A monthly contribution total does not guarantee the household account can cover rent on the first. You may need contributions from the previous month or a small established bill reserve to handle the first cycle.
+
+If one person is paid weekly and the other monthly, agree how contributions accumulate before payments clear. Confirm transfers rather than assuming they occurred. A shared account with the correct monthly average can still become overdrawn when money arrives after a bill, so review the running balance at important dates.
+
+## Plan annual expenses and shared goals together
+
+List predictable renewals, holidays, maintenance, gifts, and planned purchases with estimated amounts and deadlines. Subtract money already reserved and divide each gap by remaining contribution dates. A $1,200 shared target with $300 saved and six monthly contributions remaining needs $150 monthly, ignoring interest.
+
+Keep goals distinct from emergency savings and from current bills. If one savings account holds several purposes, track category balances and reconcile the total. A large account balance can otherwise create the mistaken impression that money reserved for insurance is also available for a trip or an additional loan payment.
+
+## Give personal spending an agreed place
+
+Decide whether personal spending uses equal allowances, remaining individual income, or another arrangement you both understand. Agree which purchases need discussion because they affect shared commitments. A threshold can be useful, but define whether it applies to a single purchase, a recurring service, or several related items.
+
+The purpose is to avoid surprises, not to require permission for every small choice. Both people should be able to see the shared financial position and maintain appropriate personal access. Revisit the method if it leaves one partner unable to cover ordinary needs or creates pressure to conceal purchases.
+
+## Address existing debt honestly
+
+List required payments and clarify whether the household will help fund them. A debt taken before the relationship may remain a personal assignment, or you may agree to work toward repayment together. Whatever the choice, include the effect on cash flow before deciding that a particular bill split is affordable.
+
+Distinguish an informal agreement to help from legal responsibility to a lender. Co-signing, joint borrowing, and account-holder obligations can have consequences beyond your chosen budget categories. Review the product terms and applicable guidance before taking on a commitment. Do not assume a private contribution percentage limits what a creditor can require.
+
+## Prepare for a period on one income
+
+Discuss what changes if either partner loses work, takes parental leave, becomes ill, or provides additional unpaid care. Identify which costs would continue, which goals could pause, and what confirmed income or reserves would be available. This is a planning exercise, not a prediction that an emergency will occur.
+
+Recalculate contributions when circumstances change instead of treating the original agreement as permanent. If one person temporarily has no earnings, a proportional formula may assign no cash contribution, but household work and personal needs still matter. Financial decisions should reflect the actual situation and both partners' participation in it.
+
+## Hold a short monthly money meeting
+
+Review income received, bills paid, account balances, upcoming expenses, and progress toward goals. Compare actual spending with estimates and choose one or two adjustments. Keep the meeting focused on shared decisions rather than using the record to criticize every purchase after the fact.
+
+Finish with clear actions and responsibilities. One partner might request an insurance quote while the other updates a future-bill estimate. Both should know the next rent contribution and review date. A simple written note helps prevent the same unresolved question from returning month after month.
+
+## Resolve mismatches before replacing the whole system
+
+If the budget repeatedly fails, identify the cause. Missing transactions, uncertain income, unrealistic categories, or late transfers may be fixable without changing all your accounts. A disagreement over which goals matter requires a conversation, not merely a more detailed spreadsheet.
+
+Test one change for a reasonable period and compare the result. You might increase the grocery estimate, move contribution dates earlier, or clarify which purchases are shared. Keep both the numbers and the experience of using the system in view. A technically balanced plan that neither person understands is unlikely to remain useful.
+
+## Frequently asked questions
+
+### Is a fifty-fifty split always fairest?
+
+No single method is fairest for every couple. Equal bills, proportional contributions, and tailored arrangements produce different outcomes. Calculate what each leaves after shared costs and discuss income, obligations, unpaid responsibilities, and personal needs before choosing a method you both accept.
+
+### Do we need a joint bank account?
+
+No. You can budget together using separate accounts and accurate shared records. A joint household account can simplify payments, but review its terms and responsibilities first. Choose the arrangement that supports visibility, timely bills, and the degree of financial independence you both want.
+
+### How often should we update the contribution ratio?
+
+Review it when reliable income or major commitments change and at agreed regular intervals. Avoid recalculating around every minor fluctuation if that creates confusion. For variable income, use a defined baseline and a clear process for reconciling additional confirmed earnings.
+
+## Make the first shared plan
+
+List reliable take-home income, define shared costs, calculate two possible contribution methods, and check upcoming payment dates. Choose one arrangement for a trial period and schedule a review. Budgeting as a couple becomes practical when both people understand the money, the responsibilities, and how future decisions will be made.
+
+## Official sources
+
+[FCAC: Managing money as a couple](https://www.canada.ca/en/financial-consumer-agency/services/living-as-couple.html)
+
+[FCAC: Making a budget](https://www.canada.ca/en/financial-consumer-agency/services/make-budget.html)
