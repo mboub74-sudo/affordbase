@@ -1,0 +1,98 @@
+A 5% down payment can let an eligible buyer purchase a home with less upfront cash, while 20% generally removes the need for borrower-paid mortgage default insurance and reduces the loan required. The better choice depends on the property price, monthly budget, available reserves, financing terms and how long reaching the larger down payment would take.
+
+Avoid comparing only the premium or only the years spent saving. Compare the entire purchase plan: cash needed before closing, the financed balance, scheduled payment, remaining savings and the consequences of waiting. This guide uses original hypothetical Canadian-dollar examples and rules checked on November 14, 2026. Rates shown are calculation assumptions rather than current mortgage offers.
+
+## When is 5% down actually enough?
+
+For an eligible purchase of $500,000 or less, the minimum down payment generally starts at 5%. Above $500,000, the insured minimum is 5% of the first $500,000 plus 10% of the remainder, for qualifying prices below $1.5 million. At $1.5 million or more, the minimum is generally 20%. Other eligibility requirements still apply.
+
+A $700,000 purchase therefore requires at least $45,000 under the tiered insured rule: $25,000 on the first portion and $20,000 on the remaining $200,000. That is about 6.43% of the total price. Calling every small-down-payment purchase a 5%-down transaction can cause a serious cash shortfall when you start shopping above the first threshold.
+
+The examples below use a $500,000 owner-occupied purchase so 5%, 10%, 15% and 20% are straightforward comparisons. They assume a traditional down-payment source and standard eligibility. Rental properties, unusual financing structures and other situations can involve different requirements. Confirm the property and proposed loan with a lender before relying on the minimum rule.
+
+## What mortgage default insurance changes
+
+Default insurance protects the lender against a borrower default; it is different from home insurance or optional borrower life and disability coverage. With a down payment below 20%, eligible buyers typically pay a premium. That cost may be added to the mortgage, increasing the balance and the interest paid on that financed amount.
+
+For the standard twenty-five-year example, [CMHC premium tiers](https://www.cmhc-schl.gc.ca/professionals/project-funding-and-mortgage-financing/mortgage-loan-insurance/mortgage-loan-insurance-homeownership-programs/premium-information-for-homeowner-and-small-rental-loans) are 4% at the highest illustrated loan-to-value range, 3.1% at 10% down and 2.8% at 15% down. The premium is calculated on the base mortgage, not the home's full price. Non-traditional down payments or other products can have different premiums.
+
+Eligible amortizations beyond twenty-five years also involve a premium surcharge under CMHC's rules. This guide keeps twenty-five years throughout the main comparison so the down-payment effect remains visible. If you compare a small insured down payment over thirty years with 20% down over twenty-five, you are changing both the cash contribution and the repayment schedule.
+
+## Compare four down payments on the same $500,000 home
+
+Assume a hypothetical 4.5% fixed annual nominal rate compounded semi-annually, monthly payments and twenty-five years. Insurance premiums are financed, and the 20% scenario assumes no borrower-paid default premium. The table excludes taxes, heat, condo fees, home insurance and closing expenses. Real quotes may use different rates for different loan categories.
+
+| Down payment | Cash toward price | Financed insurance premium | Starting mortgage | Monthly mortgage payment |
+| --- | --- | --- | --- | --- |
+| 5% | $25,000 | $19,000 | $494,000 | $2,734.16 |
+| 10% | $50,000 | $13,950 | $463,950 | $2,567.84 |
+| 15% | $75,000 | $11,900 | $436,900 | $2,418.12 |
+| 20% | $100,000 | $0 | $400,000 | $2,213.89 |
+
+Moving from 5% to 20% requires another $75,000 toward the price. It reduces the starting mortgage by $94,000 because the buyer also avoids the $19,000 financed premium in this example. At the assumed identical rate, the monthly principal-and-interest payment falls by approximately $520.26. That is a meaningful benefit, but it requires substantial additional cash.
+
+Intermediate thresholds matter too. Going from 5% to 10% uses another $25,000 while reducing the financed balance by $30,050. The change combines a smaller base loan with a different premium tier. Compare feasible increments rather than treating the decision as an all-or-nothing choice between the smallest down payment and a distant 20% target.
+
+## Qualification still depends on income and debts
+
+Having the minimum cash does not establish mortgage eligibility. The lender also assesses income, existing obligations, credit, the property and the required qualifying payment. Default insurance increases the financed balance when added to the mortgage, so the insured loan's qualifying payment must include that premium. Do not stress-test only the price minus down payment.
+
+Using a hypothetical 6.5% qualifying rate and the same twenty-five-year convention, the table's $494,000 loan requires approximately $3,309 monthly for qualification. The $400,000 loan requires approximately $2,679. Property taxes, heating and applicable condo-fee treatment must then be included in the housing calculation. Those figures are qualification inputs, not the scheduled payments in the table.
+
+Ask which limit is controlling your application. If accepted income supports only a smaller financed balance, a larger down payment may be necessary for the target property. If income comfortably supports the loan but closing cash is limited, retaining liquidity may be more relevant. A useful recommendation should explain the constraint it solves.
+
+## Keep closing costs and reserves outside the down payment
+
+Build a cash plan before allocating every dollar toward the price. Suppose accessible savings are $115,000. In an invented plan, closing costs and moving need $15,000 and the household wants to retain $20,000 for emergencies and early ownership expenses. That leaves $80,000 available for the down payment, below 20% of the example's home price.
+
+Using $100,000 toward the home would leave only $15,000 for all other needs. The premium saving does not make those remaining obligations disappear. Reconsider the property, timing, reserve target or financing options using actual quotes and realistic expenses. The goal is a complete purchase that remains manageable after the keys are handed over.
+
+Some provinces apply tax to the insurance premium, which must be handled separately from the financed premium. Ask the lender and closing professional for the exact local amount and payment treatment. Also verify transfer taxes, available rebates, legal costs and adjustments for the specific transaction. A generic closing-cost percentage cannot replace that statement.
+
+## How long would saving from 5% to 20% take?
+
+At the same $500,000 price, the extra down-payment target is $75,000. Saving an additional $1,000 monthly would take seventy-five months before investment returns, tax effects or price changes. At $1,500 monthly it would take fifty months. Those simple timelines help show the scale of the decision without pretending to forecast future housing values.
+
+Now update the comparison periodically. Your income, savings, rent, desired property and mortgage rates may change while you wait. Keep the target tied to a realistic property budget rather than a fixed percentage of an old asking price. A quarterly review can reveal whether the longer saving plan is moving closer to a practical purchase or needs revision.
+
+Avoid assuming that waiting always costs money or always creates savings. Renting provides housing during the saving period and carries its own costs, while owning involves interest, taxes, maintenance, insurance and transaction expenses. Compare equivalent living arrangements and the likely ownership duration. Future appreciation and investment returns remain uncertain on both sides of the calculation.
+
+## Compare buying now with waiting using complete scenarios
+
+Create a buy-now worksheet with the small-down-payment mortgage, full ownership budget, closing cash and remaining reserve. Create a wait worksheet with rent, monthly savings contributions and the target date. Keep moving costs and major lifestyle changes explicit. If the compared homes or locations differ, name the difference rather than attributing every result to down-payment size.
+
+For sensitivity testing, calculate at least three future property prices: unchanged, lower and higher. Choose illustrative changes yourself and label them as scenarios, not forecasts. Also vary mortgage rates independently. A decision that remains workable across several plausible combinations is more resilient than one that depends entirely on a particular price or rate prediction.
+
+Include time horizon. A buyer expecting to relocate soon faces transaction costs and uncertainty that differ from a household planning to remain for many years. A larger down payment cannot remove those considerations. Compare the practical value of flexibility with the financial commitments of the actual property before making the savings target the sole deciding factor.
+
+## Compare actual rates and contract features
+
+The payment table deliberately uses the same rate to isolate the down payment. In practice, insured and uninsured offers may be priced differently. Obtain equivalent quotes, then compare payment, financed balance, first-term interest, remaining balance, fees and contract flexibility. Avoid assuming the 20% option must always have the lowest advertised rate.
+
+Review prepayment rights and break-penalty methods, particularly if you expect income changes or a move. A household choosing a smaller down payment today may plan extra principal payments later. That strategy depends on available surplus and the contract permitting the intended payments. Include these conditions in the comparison instead of treating future repayment as automatic.
+
+If funds come from a gift, investment sale or another source, verify documentation and timing. Cash that exists on paper but cannot be accessed before closing does not fund the transaction. Keep a dated list of expected transfers and obligations, and have the lender confirm acceptable evidence for the source of each contribution.
+
+## A decision process you can use this week
+
+Choose a realistic price range and collect current financing quotes. Reserve closing cash and the emergency amount first, then identify the down payment genuinely available. Calculate 5%, 10%, 15% and 20% where eligible. For each feasible scenario, record the mortgage, payment, qualification result, cash remaining and the expected balance at the end of the term.
+
+Then ask what could make the plan fail: lower income, a repair, higher renewal payments or an earlier move. Decide how you would respond. The strongest down-payment choice is the one that fits the complete household plan and the specific financing available, with assumptions you can explain and update as the purchase progresses.
+
+## Frequently asked questions
+
+### Is 20% down required to buy a home in Canada?
+
+Not for every eligible purchase. Minimum requirements depend on price and the financing arrangement. Smaller down payments are possible within the insured rules, subject to qualification. At the higher price threshold or for situations outside standard eligibility, requirements differ. Confirm the intended property and loan rather than applying one percentage to every purchase.
+
+### Does 20% down guarantee approval?
+
+No. The lender still assesses the borrower and property. A larger down payment reduces the financing required, but it does not replace income verification, credit review or the applicable qualification process. Ask the lender to identify remaining conditions and distinguish a preliminary estimate from a final lending commitment.
+
+### Is the insurance premium part of my equity?
+
+No. A financed default-insurance premium increases what you owe without increasing the purchase price or the property's market value. For example, the $500,000 home with a $494,000 starting mortgage has only $6,000 between price and debt at that moment, before selling costs or any market movement.
+
+### Should I spend my emergency fund to reach 20%?
+
+Compare the premium and payment saving with the cash you would retain, essential monthly expenses and foreseeable ownership costs. Avoid deciding from the insurance saving alone. Use actual closing figures and a household stress scenario, then discuss the complete plan with a qualified professional who can assess your circumstances.

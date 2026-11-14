@@ -1,0 +1,98 @@
+Condo fees affect mortgage affordability in two different ways. They reduce the room available in a lender's housing-cost calculation, and the full monthly bill reduces your household spending money. Under [CMHC debt-service guidance](https://www.cmhc-schl.gc.ca/professionals/project-funding-and-mortgage-financing/mortgage-loan-insurance/calculating-gds-tds), 50% of applicable condominium fees enters the qualification calculation. That does not mean you only need to budget for half the fee.
+
+To compare condos properly, place purchase price, mortgage payment, property tax, utilities, insurance, fee inclusions, and potential building costs on one worksheet. This guide shows how to do that with original examples in Canadian dollars. The figures describe hypothetical properties, not current market averages or listings. Official guidance was reviewed on November 14, 2026.
+
+## How condo fees enter mortgage qualification
+
+Gross debt service compares qualifying housing costs with accepted gross income. Total debt service adds other qualifying debt obligations. For CMHC calculations, applicable housing costs include the qualifying mortgage payment, property taxes, heating, and half the condo fee. The published maximum benchmarks are 39% and 44%, although a particular lender or product may use different limits.
+
+Start with an accepted $100,000 annual household income, equivalent to $8,333.33 monthly. The 39% housing benchmark allows $3,250. With $350 property tax, $100 heating, and a $600 condo fee, the example subtracts $300 for the fee. That leaves $2,500 for the qualifying mortgage payment before considering whether the total-debt test is tighter.
+
+The qualifying payment is usually higher than the contractual payment when the standard stress test applies. Avoid calculating borrowing capacity using the advertised payment alone. In the comparison below, the hypothetical contract rate is 4.5%, the qualifying rate is 6.5%, and all schedules use twenty-five years with monthly payments and Canadian fixed-rate semi-annual compounding.
+
+## A fee comparison with all other assumptions held constant
+
+The following table isolates the fee's effect. It assumes no other qualifying debts and keeps income, taxes and heating unchanged. Mortgage capacity means the total financed balance, including a premium if one must be financed. It is not a purchase price and does not confirm that a specific borrower or building will be approved.
+
+| Monthly condo fee | Fee counted in this qualification example | Available qualifying mortgage payment | Supported financed balance |
+| --- | --- | --- | --- |
+| $0 | $0 | $2,800 | $418,020 |
+| $400 | $200 | $2,600 | $388,162 |
+| $600 | $300 | $2,500 | $373,232 |
+| $800 | $400 | $2,400 | $358,303 |
+
+The $400 difference between the second and fourth rows reduces supported mortgage principal by approximately $29,859. Actual cash flow worsens by the full $400 monthly, or $4,800 annually. These are different effects. Quoting the borrowing reduction without the household expense would miss the part that directly affects everyday spending.
+
+For a reproducible calculation, the effective monthly rate is (1 + 0.065 / 2) raised to one-sixth, minus one. Divide the available payment by the monthly payment factor for 300 payments. If another calculator gives a different result, check its rate, amortization, property costs, fee treatment, and insurance assumptions before assuming either result is wrong.
+
+## Compare total monthly ownership costs
+
+Imagine two hypothetical units. Condo A costs $450,000, requires a $360,000 mortgage after a 20% down payment, and charges $400 monthly fees. Condo B costs $420,000, requires a $336,000 mortgage with the same down-payment percentage, and charges $800. At the example's 4.5% contract rate, their mortgage payments are approximately $1,993 and $1,860 respectively.
+
+Condo B saves approximately $133 on the monthly mortgage but costs $400 more in fees. Before considering differences in tax, utilities or insurance, its monthly mortgage-plus-fee total is roughly $267 higher. Its down payment is $6,000 lower, but that upfront saving does not make the recurring cost lower. Compare both timelines explicitly.
+
+Now investigate what each fee includes. If one building includes services you would otherwise pay separately, the difference in complete monthly costs may narrow. Obtain actual information instead of inventing a standard utility allowance for every building. Keep taxes, insurance, parking and storage charges visible so apparently similar listings are measured on equivalent terms.
+
+## Do not count the same utility bill twice
+
+Fee inclusions differ across buildings. Ask which services are included, which are individually metered, and which are charged separately through the corporation or another provider. For the household budget, each service should appear once. A worksheet that includes heat within the fee and again as a separate household bill would overstate ongoing expenses.
+
+Qualification treatment is a separate issue. Ask the lender how it handles heating when the fee includes it rather than deleting an underwriting input yourself. The lender may require a particular method or documentation. Keep the qualification worksheet labelled separately from your household cash-flow sheet so an adjustment for one purpose is not copied blindly into the other.
+
+Request recent bills when possible and note seasonal differences. A low bill from a mild month does not necessarily represent winter. Also confirm whether the displayed fee is current or scheduled to change. The most useful number is the amount you will owe after taking possession, supported by the relevant documents rather than an old listing description.
+
+## Assess the building behind the monthly fee
+
+A low fee alone does not establish good value. Review the building's financial documents and maintenance information with appropriately qualified help. Ask how planned major work is funded, whether the current budget reflects realistic operating expenses, and whether a fee increase or special assessment has been approved or discussed. The review process and required documents differ by province.
+
+CMHC's condominium buyer guidance explains that fees support common-property operations and maintenance and may contribute to reserves for major replacements. Use that basic distinction to ask better questions. Regular operating costs and future capital work are different funding needs; a pleasant lobby cannot tell you whether either has been adequately planned.
+
+Treat an unexplained low fee as a question to investigate, not proof of a problem. Likewise, a higher fee might reflect included services, building amenities, age, or funding choices. Compare documents and total costs rather than ranking buildings by fee alone. A professional review should explain the specific evidence supporting any material concern.
+
+## Build a separate plan for irregular building costs
+
+A special assessment can create a payment obligation outside the regular fee. Before making an offer, ask whether any assessment exists, when it is payable, and how the purchase agreement allocates responsibility. Have your legal adviser explain the actual documents. An advertisement or informal assurance is not a substitute for understanding the contractual allocation.
+
+For budgeting, run a hypothetical scenario even if no assessment is known. An invented $6,000 assessment payable over twelve months would add $500 monthly for that period. This is a sensitivity test, not a prediction or standard assessment amount. Decide whether available cash could absorb it without relying on uncertain refinancing or expensive credit.
+
+Keep personal reserves distinct from the corporation's reserve fund. Money held by the building is not cash in your own bank account for mortgage payments, job loss, or a unit-level repair. Record your own reserve balance, the expenses it protects, and what would remain after closing. Ownership is more resilient when those roles are clear.
+
+## Test fee increases alongside mortgage renewal
+
+Suppose the fee rises from an invented $600 to $720 monthly. Your cash budget needs another $120 monthly, or $1,440 annually. Under the half-fee qualification assumption, only $60 of that change enters the debt-service housing figure. This difference reinforces why qualification ratios alone cannot measure the household's future comfort.
+
+Also test a higher mortgage payment at renewal. Use the remaining principal and amortization at that time, then add a plausible fee scenario and updated taxes and utilities. Avoid assuming that every increase will arrive in a different year. A combined scenario shows whether the budget has room for more than one ordinary cost change at once.
+
+Choose a response before committing. You might lower the target price, retain a larger personal reserve, or select a property with more predictable costs after reviewing its evidence. The goal is a manageable total obligation. Buying a cheaper unit with substantially higher recurring expenses does not necessarily achieve that goal.
+
+## Compare a condo with a freehold home fairly
+
+A freehold property may have no condominium fee, but maintenance, insurance, utilities and repairs still require funding. Compare the same service needs over a realistic ownership period. A house's repair costs may be irregular while a condo charges a recurring fee, so one month's cash outlay is an incomplete measure of their relative cost.
+
+Prepare a maintenance plan suited to the specific property instead of using a universal percentage as a guarantee. List upcoming items identified by inspection or available documents, timing, and a reasonable funding allowance. A building's shared maintenance arrangement and a house's individual responsibility create different risks; neither eliminates the underlying cost of keeping property usable.
+
+Include practical value too. Commute, parking needs, accessibility, usable space and the services you actually use can affect the household budget. An amenity is not a saving merely because it exists. Count a benefit financially only when it replaces spending you would otherwise make, and keep personal preferences separate from cash calculations.
+
+## A practical viewing and offer checklist
+
+Before a viewing, record asking price, current fee, property tax, included services, parking and storage costs. After the viewing, request the appropriate building documents and clarify pending changes. Before removing conditions, obtain the legal and financing advice relevant to the property and province. Keep unanswered questions visible rather than filling gaps with optimistic defaults.
+
+Update the [mortgage affordability calculator](/mortgage-affordability-calculator/) with the property-specific numbers, then compare the result with your take-home budget. Save the worksheet and document date. If the seller, building manager or lender supplies a revised figure, update both qualification and household calculations. A decision based on current evidence is more useful than a polished estimate built on stale inputs.
+
+## Frequently asked questions
+
+### Do lenders count the full condo fee?
+
+CMHC's published calculation includes half of applicable condominium fees. Other lenders or mortgage products may assess costs differently. Confirm the treatment for your application, particularly when comparing uninsured financing. Regardless of the lender's method, your household budget must cover the entire fee and any separately payable property expenses.
+
+### Can a lower purchase price offset a higher fee?
+
+It can, but calculate the actual mortgage saving and compare it with the full fee difference, taxes and included services. In this guide's invented comparison, a $30,000 lower price does not offset a $400 higher fee. Different rates, down payments and properties change that answer, so evaluate the specific transaction.
+
+### Is the lowest condo fee always the safest choice?
+
+No. Review what the fee pays for, building finances, planned work and the relevant documents. A fee amount alone cannot establish the quality of maintenance or funding. Use professional advice to understand material obligations and keep a personal cash reserve that remains available after the purchase closes.
+
+### What should I enter in a calculator?
+
+Enter the current full fee in the condo-fee field unless the tool explicitly requests a different figure. Check whether the tool applies the qualification adjustment itself. Entering half into a field that already halves the amount would understate the qualifying expense. Review the displayed breakdown before using the result to set your offer budget.
