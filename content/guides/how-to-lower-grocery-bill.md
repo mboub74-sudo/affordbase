@@ -110,17 +110,73 @@ At the end of the week, review one useful observation together: a food that was 
 
 ## Frequently asked questions
 
-### Are store brands always cheaper?
+### How can I lower my grocery bill and save money on groceries?
 
-No. Compare current unit prices and the features you need. A promotion can change the result, and some products differ in ways that matter to your household. Test suitable alternatives rather than assuming the label determines value.
+Start with recent receipts, check existing food, plan meals you can realistically cook, and buy only the missing ingredients. Compare unit prices for frequent purchases and review waste before the next trip. These grocery budget tips work best when you measure the total spent across the week, including extra shops and delivery fees.
 
-### Should I visit several stores?
+### How do I shop my kitchen first?
 
-Compare the expected saving with transport costs, time, fees, and the likelihood of extra purchases. An additional trip makes sense only when its overall benefit fits your circumstances.
+Check the fridge, freezer and pantry before searching for recipes or offers. List ingredients already available and choose meals around foods needing attention. Then write a shopping list for gaps only. A quick photo or shared inventory can prevent duplicate purchases when more than one person shops.
 
-### What if the food budget still does not cover essentials?
+### What are simple low effort meals on a budget?
 
-Review the wider budget and look for locally available food assistance or benefits. A persistent shortfall is not necessarily a shopping-skills problem. Protect essential needs while seeking support appropriate to your situation.
+Choose flexible combinations you already enjoy: beans with rice, eggs with vegetables and toast, pasta with frozen vegetables, or a soup using suitable available ingredients. Keep one backup meal for busy evenings. Cheap meal planning should match your time, equipment and food preferences rather than requiring a completely new set of ingredients every night.
+
+### How does a use first system for leftovers work?
+
+Keep a clearly marked area for foods to consider before opening new packages, with dates that help identify what needs attention. Plan the next appropriate meal around those items. A use-first reminder is an organizational aid, not a food-safety assessment: follow safe storage and handling guidance, and do not keep food simply because wasting it feels expensive.
+
+### How can I stop wasting fresh produce?
+
+Buy quantities that match realistic meals, store products appropriately, and check remaining produce before shopping again. Use more delicate ingredients earlier where suitable, and choose frozen or canned options when their quantity and use fit better. If the same vegetable is repeatedly discarded, reduce the amount or change the plan instead of buying another large pack.
+
+### How do I calculate unit price at the grocery store?
+
+Divide price by net quantity using the same measure for both products. For example, $4.80 for 600 grams equals $0.80 per 100 grams; $5.50 for 750 grams is about $0.73 per 100 grams. Compare appropriate products and the amount you will actually use. See the [unit-price examples](https://www.affordbase.com/articles/why-grocery-prices-not-going-down) for package-size changes.
+
+### How should I compare store brands vs name brands?
+
+A store brands vs name brands price comparison should use the current unit price and product features your household needs. Test unfamiliar alternatives in a small quantity before stocking up. Promotions can change which option is cheaper, so neither a familiar brand nor a store label guarantees the best value every week.
+
+### When does buying in bulk actually save money?
+
+Bulk buying saves when its cost per usable quantity is lower after waste, membership costs where relevant, transport and storage needs. A three-kilogram purchase for $12 costs $6 per kilogram used if one kilogram is discarded. It also requires $12 upfront. The larger package must fit both your consumption and your current cash budget.
+
+### How do I build a repeatable grocery price list?
+
+Track a manageable group of frequent purchases with date, store, product description, package size, price and unit price. Mark temporary promotions separately from regular prices. Update the list while shopping rather than making extra trips just to collect data. Keep the items that influence your decisions and remove entries that add work without useful savings.
+
+### What is the average grocery bill for a family of four?
+
+There is no single figure that describes every family. A useful benchmark must identify country, location, year, household composition and whether it measures observed spending or a modelled food basket. Build your working target from several weeks of actual food purchases, then adjust for adequate needs and local prices. A forecast is not automatically the amount every family spends.
+
+### How can I save on groceries in Canada or the US?
+
+Compare food in your own currency and local stores, use appropriate unit measures, plan around existing ingredients, and count fees and waste. Benefit programs, taxes and retailer policies differ between Canada and the US. For Canadian policy details, read the [Walmart Canada pricing guide](https://www.affordbase.com/articles/walmart-price-match-policy-canada-2026) rather than applying a US store policy.
+
+### Which grocery inflation budget tips are most useful?
+
+Update your budget with current receipt evidence, separate non-food purchases, compare net package weights, and measure savings over several weeks. Slowing inflation does not necessarily mean prices fall. Our [grocery-inflation explainer](https://www.affordbase.com/articles/why-grocery-prices-not-going-down) shows how price levels and growth rates differ, with examples you can apply to your own basket.
+
+### How can I cut my grocery bill in half?
+
+A 50% reduction is not a reliable target for every household. First identify actual avoidable spending, such as duplicates, unwanted bulk purchases, waste and fees. Test a realistic change without sacrificing adequate food. Someone already spending carefully on essentials may need more income or assistance rather than a larger shopping cut.
+
+### Why are my grocery bills so high?
+
+Check accumulated price increases, household size, quantities, food preferences and the number of meals eaten at home. Then separate food from cleaning supplies and other supermarket purchases. Compare the same products in equal quantities before concluding that the entire difference is inflation. A higher receipt may combine several changes that need different responses.
+
+### How can I stop food waste and save money?
+
+Give perishables a likely use before buying, keep a visible reminder for suitable leftovers, and review what was discarded and why. Adjust the next shop accordingly. To reduce food waste sustainably, choose quantities and meals that fit real routines instead of assuming every week will include time for ambitious batch cooking.
+
+### Should I visit several stores or rely on price matching?
+
+Compare the full expected saving with travel, fees, time and likely extra purchases. Verify the specific retailer's current terms before assuming it accepts another store's flyer. A fictional $7 basket saving leaves only $1 after $6 of extra transport costs. Sometimes one well-planned trip is the more practical option.
+
+### What if the grocery budget cannot cover essentials?
+
+A persistent shortfall is not necessarily a shopping-skills problem. Review the wider budget and seek benefits or locally available food support suited to your circumstances. In Canada, check the [CGEB guide](https://www.affordbase.com/articles/canada-groceries-essentials-benefit-2027) for the distinction between regular payments and the proposed supplement; do not budget an unconfirmed maximum as cash available today.
 
 ## Start with your next shopping trip
 
