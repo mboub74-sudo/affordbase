@@ -58,3 +58,7 @@ Saved asset: public/images/walmart-pricing-hero.webp
 ### walmart-pricing-detail
 Use case: photorealistic-natural. Asset type: original AffordBase article image. Close overhead still life of two identical unbranded grocery packages, smartphone with generic blank product layout, receipt and pencil, price comparison concept, realistic editorial photography, wide landscape. No readable text, no logos, no government insignia, no watermarks, no charts, realistic anatomy. One distinct image.
 Saved asset: public/images/walmart-pricing-detail.webp
+
+
+## Square image update
+Six new original square images generated on November 16, 2026. All six assets verified at 1254 × 1254, converted to WebP, and linked with matching intrinsic and social metadata dimensions. Previous landscape assets retained.
