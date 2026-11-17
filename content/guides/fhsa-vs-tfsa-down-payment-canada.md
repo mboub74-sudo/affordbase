@@ -119,3 +119,15 @@ No. Opening is different from making an eligible deductible contribution, and a 
 ### Is money inside either account guaranteed safe?
 
 The tax wrapper does not guarantee investment value or immediate access. Review the underlying product, provider, applicable deposit protection, market risk, and withdrawal terms. A cash deposit and a stock fund have different characteristics even inside the same account. Choose holdings with the actual purchase date and cash requirements in mind.
+
+### How does my income affect the FHSA tax benefit?
+
+The value of an eligible deduction depends on your taxable income, province, and other tax circumstances. Use your estimated return rather than a universal refund percentage. A deduction reduces taxable income; it does not automatically refund the contribution.
+
+### How does my buying timeline affect the choice?
+
+A firm purchase date makes withdrawal processing, investment liquidity, and principal stability especially important. If buying is uncertain, compare TFSA flexibility with the FHSA's qualifying-withdrawal rules and maximum participation period. Neither account guarantees investment returns.
+
+### How do I check my available TFSA room?
+
+Review CRA My Account and reconcile it with records from every TFSA provider. Recent transactions may not yet appear. Withdrawals restore room the next calendar year, so verify your own contribution history before moving more money in.

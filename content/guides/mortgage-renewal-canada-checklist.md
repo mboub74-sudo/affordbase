@@ -106,3 +106,15 @@ Sometimes a lower balance or longer amortization reduces the payment, but those 
 ### What if the new payment is unaffordable?
 
 Contact the lender before a missed payment and explain the shortfall using a complete budget. Ask about available relief and its longer-term costs. Review essentials, debt obligations, and realistic housing choices. No general article can guarantee a concession, but early communication gives more time to evaluate actual options.
+
+### When should I start preparing for renewal?
+
+Check the exact maturity date on your mortgage statement and start comparing options a few months beforehand. Confirm offer expiry dates and switching deadlines with each lender rather than waiting for the renewal letter.
+
+### Which balance and amortization should I use?
+
+Use the projected balance at renewal and the remaining amortization, not the original loan amount or a restarted repayment period. Keep these inputs identical when comparing rates and payments.
+
+### Should I choose a fixed or variable rate?
+
+Compare payment certainty, your budget's ability to absorb increases, and the actual contract terms. A fixed rate offers rate stability during the term; variable-rate payment behavior depends on the product. Do not base the decision solely on a market forecast.

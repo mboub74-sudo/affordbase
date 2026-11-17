@@ -111,3 +111,15 @@ No exact score change can be guaranteed. Lower balances and reliable payments ca
 ### Is a lower-rate transfer always worthwhile?
 
 No. Include transfer fees, the expiry date, the required payoff payment, and the rate on any remaining balance. Also consider eligibility and the terms for new purchases. A promotion that cannot be cleared before expiry may still help, but its full cost needs calculating rather than assuming the headline rate applies forever.
+
+### Which APR should I use in my payoff calculation?
+
+Check your statement for the rate applying to each balance. Purchases, cash advances, and promotional transfers may have different rates. Include fees and promotion expiry dates instead of assuming one APR applies to everything.
+
+### How much should I pay each month?
+
+Choose a sustainable amount after essentials, other required payments, and planned bills. Always cover at least the statement minimum. A payment that forces new borrowing for groceries or rent is unlikely to be sustainable.
+
+### Does a good credit score guarantee a balance transfer?
+
+No. Approval and the available limit also depend on income, debts, and lender criteria. Compare any actual offer's fees, promotional period, and later rate; do not assume a 0% transfer or consolidation loan is available.
