@@ -114,12 +114,12 @@ No. Include transfer fees, the expiry date, the required payoff payment, and the
 
 ### Which APR should I use in my payoff calculation?
 
-Check your statement for the rate applying to each balance. Purchases, cash advances, and promotional transfers may have different rates. Include fees and promotion expiry dates instead of assuming one APR applies to everything.
+Check the rate shown on your latest statement for each type of balance. Purchases, cash advances, and balance transfers can carry different rates, and a promotional rate may expire before the debt is cleared. Include fees and payment dates in your estimate. If several rates apply, calculate them separately or ask the issuer how payments are allocated.
 
 ### How much should I pay each month?
 
-Choose a sustainable amount after essentials, other required payments, and planned bills. Always cover at least the statement minimum. A payment that forces new borrowing for groceries or rent is unlikely to be sustainable.
+Start with take-home income and subtract essentials, other required payments, and money reserved for predictable bills. Choose a repeatable payment from what remains, while always covering at least the current statement minimum. Keep enough cash to avoid borrowing again for groceries or rent. Review the amount each month and increase it when your budget genuinely allows.
 
 ### Does a good credit score guarantee a balance transfer?
 
-No. Approval and the available limit also depend on income, debts, and lender criteria. Compare any actual offer's fees, promotional period, and later rate; do not assume a 0% transfer or consolidation loan is available.
+No. A lender also considers income, existing debts, its own criteria, and the credit limit it is willing to offer. Even if approved, you may not be able to transfer the full balance. Compare fees, promotional duration, the later interest rate, and conditions for keeping the promotion. Assess a real offer rather than assuming 0% financing is available.

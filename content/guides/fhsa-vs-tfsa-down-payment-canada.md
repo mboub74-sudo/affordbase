@@ -122,12 +122,12 @@ The tax wrapper does not guarantee investment value or immediate access. Review 
 
 ### How does my income affect the FHSA tax benefit?
 
-The value of an eligible deduction depends on your taxable income, province, and other tax circumstances. Use your estimated return rather than a universal refund percentage. A deduction reduces taxable income; it does not automatically refund the contribution.
+An eligible FHSA deduction reduces taxable income, so its value depends on your income, province, tax brackets, and other deductions or credits. The same contribution can produce different tax savings for different people. Estimate the effect using your own tax return, and distinguish a tax saving from a cash refund, which also depends on withholding and other amounts owing.
 
 ### How does my buying timeline affect the choice?
 
-A firm purchase date makes withdrawal processing, investment liquidity, and principal stability especially important. If buying is uncertain, compare TFSA flexibility with the FHSA's qualifying-withdrawal rules and maximum participation period. Neither account guarantees investment returns.
+A near-term purchase makes reliable access to the money especially important. Check investment maturity dates, withdrawal processing, and the cash needed for an offer deposit before closing. If buying is uncertain, compare the TFSA's broader flexibility with the FHSA's qualifying-withdrawal conditions and maximum participation period. The account wrapper does not protect risky investments from falling before you buy.
 
 ### How do I check my available TFSA room?
 
-Review CRA My Account and reconcile it with records from every TFSA provider. Recent transactions may not yet appear. Withdrawals restore room the next calendar year, so verify your own contribution history before moving more money in.
+Review the figure in CRA My Account, then reconcile it with your contribution and withdrawal records from every TFSA provider. Recent transactions may not yet be reflected in CRA's information. A withdrawal normally restores room on January 1 of the following year, not immediately. Before contributing again, calculate what room is actually available using your complete transaction history.

@@ -109,12 +109,12 @@ Contact the lender before a missed payment and explain the shortfall using a com
 
 ### When should I start preparing for renewal?
 
-Check the exact maturity date on your mortgage statement and start comparing options a few months beforehand. Confirm offer expiry dates and switching deadlines with each lender rather than waiting for the renewal letter.
+Find the exact maturity date on your mortgage statement, then begin comparing options a few months before it. This gives you time to request offers, prepare documents, and understand switching costs. Ask each lender about offer expiry dates and processing deadlines. Do not assume the renewal letter provides enough time to complete a switch comfortably.
 
 ### Which balance and amortization should I use?
 
-Use the projected balance at renewal and the remaining amortization, not the original loan amount or a restarted repayment period. Keep these inputs identical when comparing rates and payments.
+Use the balance projected for your renewal date and the remaining amortization, rather than the original loan amount. Include any planned prepayment only after confirming it is permitted and affordable. Compare offers using the same balance, repayment period, and payment frequency so a lower payment is not simply the result of extending your debt over more years.
 
 ### Should I choose a fixed or variable rate?
 
-Compare payment certainty, your budget's ability to absorb increases, and the actual contract terms. A fixed rate offers rate stability during the term; variable-rate payment behavior depends on the product. Do not base the decision solely on a market forecast.
+Compare your need for payment certainty with your ability to absorb higher costs. A fixed rate stays unchanged during its term, while a variable rate can change; whether the payment changes depends on the product. Ask for higher-rate scenarios and early-exit costs. Choose using your budget and actual contract terms rather than relying only on predictions about the market.
